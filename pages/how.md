@@ -39,6 +39,16 @@ We then went through the simple steps of creating a github repo and hooking that
 - Setup Slack to show notifications under the Deploy channel for when any of our sites are deployed. You will need the following URL for this https://hooks.slack.com/services/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
 - Create the contact form for the contact page which won't be styled the official way yet (that comes later)
 
+# Probably should 
+
+- npm install --save tachyons-sass
+- install into the two projects css folder
+
 # Other things I have created with Gatsby
 
 https://nickogram.netlify.com/
+
+# resources
+
+- https://github.com/tachyons-css/tachyons-sass/tree/master/scss
+- https://github.com/michaeljdeeb/michaeljdeeb-gatsby-blog/tree/master/css
