@@ -36,4 +36,5 @@ We then went through the simple steps of creating a github repo and hooking that
 - Dan should then clone mine
 - I shall commit a change to Dan's which will be a copy of this page to help Dan learn how to write some of our pages in MD format
 - Next we will structure the pages folder into - Home, About Us and Contact (mimicking the current Umbraco sites for FG and H4C)
-- Setup Slack to show notifications under the Deploy channel for when any of our sites are deployed
+- Setup Slack to show notifications under the Deploy channel for when any of our sites are deployed. You will need the following URL for this https://hooks.slack.com/services/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
+- Create the contact form for the contact page which won't be styled the official way yet (that comes later)
