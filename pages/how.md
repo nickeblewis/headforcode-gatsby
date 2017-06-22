@@ -26,4 +26,14 @@ Next I setup my git repo
 
 Reveals I have a clean repo
 
-- testing deploy
+We then went through the simple steps of creating a github repo and hooking that up with Netlify. Minutes later we both have our simple sites online. We could map domains to these but not yet! 
+
+# Next
+
+- Become collaborators on eachother's projects, Dan on headforcode, me on FG
+- That way we will have to both raise PRs in order to publish changes on either site
+- I will then clone Dan's
+- Dan should then clone mine
+- I shall commit a change to Dan's which will be a copy of this page to help Dan learn how to write some of our pages in MD format
+- Next we will structure the pages folder into - Home, About Us and Contact (mimicking the current Umbraco sites for FG and H4C)
+- Setup Slack to show notifications under the Deploy channel for when any of our sites are deployed
