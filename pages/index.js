@@ -51,9 +51,9 @@ class Index extends React.Component {
              
                 </div>
             </div>*/}
-            <div className="tc">
-              <a href="/post" className="btn raise">Read more</a>
-            </div>
+            {/*<div className="tc">
+              <Link to="/blog/" className="btn raise">Read more</Link>
+            </div>*/}
 
           </div>
         </div>

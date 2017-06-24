@@ -6,6 +6,7 @@ import Helmet from 'react-helmet'
 import { config } from 'config'
 import { rhythm } from '../utils/typography'
 
+// import '../css/main.scss'
 import '../css/main.css'
 
 class Template extends React.Component {

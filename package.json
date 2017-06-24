@@ -16,6 +16,7 @@
     "typography": "^0.15.8",
     "typography-breakpoint-constants": "^0.14.0",
     "underscore.string": "^3.2.3",
+    "safe-access": "^0.1.0",
     "typography-plugin-code": "^0.15.9"
   },
   "devDependencies": {

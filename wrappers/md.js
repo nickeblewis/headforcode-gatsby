@@ -4,15 +4,17 @@ import 'css/markdown-styles.css'
 import Helmet from 'react-helmet'
 import { config } from 'config'
 
+import '../css/zenburn.css'
+
 class Markdown extends React.Component {
 
   render() {
     const { route } = this.props
     const post = this.props.route.page.data
     return (
-      <div className="markdown">
+      <div className="markdown mw6 center ph3 pv4">
         <Helmet title={`${config.siteTitle} | ${post.title}`} />
-        <h1>{post.title}</h1>
+        <h2 className="f3 b lh-title mb1 primary">{post.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: post.body }} />
       </div>
     )

@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../assets/fonts/SourceSansPro-Regular.ttf);
+}
+@font-face {
+  font-family: "SourceSansPro";
+  src: url(../assets/fonts/SourceSansPro-Semibold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: "SourceSansPro@2x";
+  src: url(../assets/fonts/SourceSansPro-ExtraLight.ttf);
+}
+@font-face {
+  font-family: "SourceSansPro@2x";
+  src: url(../assets/fonts/SourceSansPro-Regular.ttf);
+  font-weight: bold;
+}
+
+$base-font-family: 'SourceSansPro', sans-serif;
+$retina-font-family: 'SourceSansPro@2x', sans-serif;
+
+$brand-light: #2ac9fa;
+$brand-dark: #09f;
+
+$mobile-breakpoint: 48em;
+$desktop-breakpoint: 62em;
+
+$nav-height: 3.75em;
+$mobile-nav-height: 2.75em;
+
+$one-px: .0625em;
+
+@import '_normalize';
+@import 'nav';
+@import 'bio';
+@import 'page';
+@import 'contact';
+@import 'footer';
