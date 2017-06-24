@@ -21,7 +21,7 @@ class Index extends React.Component {
     ))
     return (
       <div>
-        <JumboTron topline="Digital Consultancy" secondline="Code, Design, UX, DX, Photography and Video" />
+        <JumboTron topline="Developing web apps since 2002" secondline="We can help build yours..." />
         <IntroBlock />
       </div>
     )

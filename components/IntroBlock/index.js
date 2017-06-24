@@ -14,20 +14,20 @@ class IntroBlock extends React.Component {
     <div className="flex-ns mhn2-ns mb3">
       <div className="ph2-ns w-50-ns">
         {/*<img src={require("./iStock-505021766.jpg")} alt="" className="center db mb3"  />*/}
-        <h4 className="f4 b tc lh-title mb2 primary">Research</h4>
-        <p>One aspect of being a developer, is that you, though you may not realise it, are a Researcher. We spend a lot of our time exploring ways of solving problems. So much so, that at times one thing leads to another and keeping track of where you are in the grand scheme of things is hard. We want to help solve this problem.</p>
+        <h4 className="f4 b tc lh-title mb2 primary">Contracting</h4>
+        <p>I have been contracting since 2002 and have worked for numerous companies and projects over the years. You are more than welcome to request a copy of my CV via the contact page. I am currently not on the lookout, as I am busy working with PCL just outside of Leatherhead, in Surrey. I am always happy to network with people via LinkedIn in the meanwhile.</p>
       </div>
 
       <div className="ph2-ns w-50-ns">
         {/*<img src={require("./iStock-505642128.jpg")} alt="" className="center db mb3"  />*/}
-        <h4 className="f4 b tc lh-title mb2 primary">Mentoring</h4>
-        <p>We are working more frequently with other Developers, ranging from apprentices, through to highly experienced professionals. Most of these people face the same daily challenges as we do. Mentoring is a great way of helping people learn based on our own knowledge and experiences. In return we often learn quite a lot from the people we teach.</p>
+        <h4 className="f4 b tc lh-title mb2 primary">Software House</h4>
+        <p>HeadForCode is a trading name for Nick Lewis Ltd our registered company. We are working more frequently with other Developers, ranging from apprentices, through to highly experienced professionals. We are currently looking for exciting new ways to develop the next generation of products on the web and mobile platforms.</p>
       </div>
     </div>
-<div className="tc">
+    {/*<div className="tc">
         <a href="/services" className="btn raise">See all services</a>
       </div>
-    
+    */}
       
     
   </div>
