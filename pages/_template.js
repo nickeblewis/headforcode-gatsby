@@ -92,7 +92,7 @@ class Template extends React.Component {
                 <li className="dib ph2 raise">
                   <Link href="http://facebook.com/headforcode" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
-                      <use xlink="http://www.w3.org/1999/xlink" href="#Facebook"></use>
+                      <use href="#Facebook"></use>
                     </svg>
                   </Link>
                 </li>
@@ -100,7 +100,7 @@ class Template extends React.Component {
                 <li className="dib ph2 raise">
                   <Link href="http://twitter.com/headforcode" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
-                      <use xlink="http://www.w3.org/1999/xlink" href="#twitter"></use>
+                      <use href="#twitter"></use>
                     </svg>
                   </Link>
                 </li>
@@ -108,7 +108,7 @@ class Template extends React.Component {
                 <li className="dib ph2 raise">
                   <Link href="https://vimeo.com/nicklewis" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
-                      <use xlink="http://www.w3.org/1999/xlink" href="#vimeo"></use>
+                      <use href="#vimeo"></use>
                     </svg>
                   </Link>
                 </li>
