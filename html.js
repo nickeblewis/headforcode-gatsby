@@ -9,11 +9,13 @@ import typography from './utils/typography'
 const BUILD_TIME = new Date().getTime()
 
 export default class HTML extends React.Component {
-  static propTypes = {
-    body: PropTypes.string
+  propTypes = {
+    body: React.PropTypes.string
   }
 
+  
   render() {
+    const { body } = this.props
     const head = Helmet.rewind()
 
     let css
@@ -44,7 +46,7 @@ export default class HTML extends React.Component {
         <body>
           <div
             id="react-mount"
-            dangerouslySetInnerHTML={{ __html: this.props.body }}
+            dangerouslySetInnerHTML={{ __html: body }}
           />
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
         </body>

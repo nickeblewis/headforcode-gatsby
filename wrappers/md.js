@@ -4,12 +4,10 @@ import 'css/markdown-styles.css'
 import Helmet from 'react-helmet'
 import { config } from 'config'
 
-export default class Markdown extends React.Component {
-  static propTypes = {
-    router: PropTypes.object,
-  }
+class Markdown extends React.Component {
 
   render() {
+    const { route } = this.props
     const post = this.props.route.page.data
     return (
       <div className="markdown">
@@ -20,3 +18,9 @@ export default class Markdown extends React.Component {
     )
   }
 }
+
+Markdown.propTypes = {
+  route: React.PropTypes.object,
+}
+
+export default Markdown

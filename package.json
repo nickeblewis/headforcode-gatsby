@@ -6,10 +6,16 @@
   "dependencies": {
     "gatsby": "^0.12.45",
     "object-assign": "^4.1.1",
+    "lodash": "^4.17.2",
+    "moment": "^2.18.1",
+    "react-addons-shallow-compare": "^15.5.2",
+    "react-dates": "^4.1.0",
+    "react-responsive-grid": "^0.3.3",
     "react-helmet": "^5.0.3",
     "react-typography": "^0.15.0",
     "typography": "^0.15.8",
     "typography-breakpoint-constants": "^0.14.0",
+    "underscore.string": "^3.2.3",
     "typography-plugin-code": "^0.15.9"
   },
   "devDependencies": {

@@ -1,20 +1,35 @@
 import React from 'react'
 import { Link } from 'react-router'
 import { prefixLink } from 'gatsby-helpers'
+import { rhythm } from 'utils/typography'
 import Helmet from 'react-helmet'
 import { config } from 'config'
+import sortBy from 'lodash/sortBy'
+import get from 'lodash/get'
+import include from 'underscore.string/include'
+import { JumboTron, IntroBlock } from 'components'
+// import IntroBlock from 'components/IntroBlock'
 
-export default class Index extends React.Component {
+class Index extends React.Component {
   render() {
+    // Sort pages.
+      console.log(this.props)
+    const sortedPages = sortBy(this.props.route.pages, 'data.date')
+    // Posts are those with md extension that are not 404 pages OR have a date (meaning they're a react component post).
+    const visiblePages = sortedPages.filter(page => (
+      get(page, 'file.ext') === 'md' && !include(page.path, '/404') && get(page, 'data.type' === 'post' ) || get(page, 'data.date')
+    ))
     return (
       <div>
-        <h1>
-          Hi Nick
-        </h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <Link to={prefixLink('/page-2/')}>Go to page 2</Link>
+        <JumboTron topline="Digital Consultancy" secondline="Code, Design, UX, DX, Photography and Video" />
+        <IntroBlock />
       </div>
     )
   }
 }
+
+Index.propTypes = {
+  route: React.PropTypes.object,
+}
+
+export default Index
