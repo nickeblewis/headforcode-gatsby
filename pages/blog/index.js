@@ -32,7 +32,7 @@ class BlogPosts extends React.Component {
           <li
             key={page.path}
           >
-            <h3 className="no-margin-padding"><Link to={link(page.path)}>{title}</Link></h3>
+            {/*<h3 className="no-margin-padding"><Link to={link(page.path)}>{title}</Link></h3>*/}
             <p className="meta">{moment(date).format('dddd | MMMM DD YYYY | hh:mm A')}</p>
             <div dangerouslySetInnerHTML={{ __html: html }} />
             <hr />
