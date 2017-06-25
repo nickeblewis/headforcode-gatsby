@@ -24,6 +24,20 @@ class IntroBlock extends React.Component {
         <p>HeadForCode is a trading name for Nick Lewis Ltd our registered company. We are working more frequently with other Developers, ranging from apprentices, through to highly experienced professionals. We are currently looking for exciting new ways to develop the next generation of products on the web and mobile platforms.</p>
       </div>
     </div>
+    <div className="flex-ns mhn2-ns mb3">
+      <div className="ph2-ns w-50-ns">
+        {/*<img src={require("./iStock-505642128.jpg")} alt="" className="center db mb3"  />*/}
+        <h4 className="f4 b tc lh-title mb2 primary">JAMStack!</h4>
+        <p>We abandoned Wordpress and Drupal some time ago after we realised it is possible to build for the web using a combination of technologies that aren't reliant on database back-ends or the dreaded security patches. Above all else we can fully embrace the technologies we love to work with, JavasCript, HTML & CSS - pure frontend code.</p>
+      </div>
+      <div className="ph2-ns w-50-ns">
+        {/*<img src={require("./iStock-505021766.jpg")} alt="" className="center db mb3"  />*/}
+        <h4 className="f4 b tc lh-title mb2 primary">No Servers?</h4>
+        <p>We haven't turned our backs on back-ends at all, we just use them in a different way nowadays. We have a wealth of experience in working with GraphCool, Serverless, StdLib and anything that can be coded with a little bit of NodeJS. Part of the JAMStack approach is that you can pull data from an API in order to generate your static content, deploy that to a CDN and your customers get to experience lightning fast websites.</p>
+      </div>
+
+      
+    </div>
     {/*<div className="tc">
         <a href="/services" className="btn raise">See all services</a>
       </div>
