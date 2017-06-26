@@ -8,7 +8,9 @@ import ReactDisqusThread from 'react-disqus-thread'
 // import '../css/zenburn.css'
 
 class Markdown extends React.Component {
-
+  handleNewCommen(comment) {
+		console.log(comment.text);
+	}
   render() {
     const { route } = this.props
     const post = this.props.route.page.data
@@ -21,7 +23,7 @@ class Markdown extends React.Component {
 				shortname="headforcode-1"
 				identifier="something-unique-12345"
 				title="HeadForCode"
-				url="http://www.example.com/example-thread"
+				url={post.url}
 				category_id="123456"
 				onNewComment={this.handleNewComment}/>
       </div>
