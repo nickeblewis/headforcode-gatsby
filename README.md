@@ -13,7 +13,7 @@ gatsby new gatsby-example-site
 
 - Do a similar thing to FG with css but shall probably take the SASS version and teach Dan about that
 - Add Google Analytics
-- Add Disqus
+- Add Disqus (having issues with this at the moment)
 
 # Reading list
 - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-merge

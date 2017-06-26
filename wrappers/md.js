@@ -24,7 +24,7 @@ class Markdown extends React.Component {
 				identifier="something-unique-12345"
 				title="HeadForCode"
 				url={post.url}
-				category_id="123456"
+				category_id="tech"
 				onNewComment={this.handleNewComment}/>
       </div>
     )
