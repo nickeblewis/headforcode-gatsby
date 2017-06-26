@@ -10,6 +10,7 @@
     "object-assign": "^4.1.1",
     "react-addons-shallow-compare": "^15.5.2",
     "react-dates": "^4.1.0",
+    "react-disqus": "^1.0.2",
     "react-disqus-thread": "^0.4.0",
     "react-helmet": "^5.0.3",
     "react-responsive-grid": "^0.3.3",

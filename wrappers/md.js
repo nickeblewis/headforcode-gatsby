@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import 'css/markdown-styles.css'
 import Helmet from 'react-helmet'
 import { config } from 'config'
-import ReactDisqusThread from 'react-disqus-thread'
+import ReactDisqus from 'react-disqus'
 
 // import '../css/zenburn.css'
 
@@ -19,13 +19,7 @@ class Markdown extends React.Component {
         <Helmet title={`${config.siteTitle} | ${post.title}`} />
         <h2 className="f3 b lh-title mb1 primary">{post.title}</h2>
         <div dangerouslySetInnerHTML={{ __html: post.body }} />
-        <ReactDisqusThread
-				shortname="headforcode-1"
-				identifier="something-unique-12345"
-				title="HeadForCode"
-				url={post.url}
-				category_id="tech"
-				onNewComment={this.handleNewComment}/>
+        <ReactDisqus shortname="headforcode-1" />
       </div>
     )
   }
