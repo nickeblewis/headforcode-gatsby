@@ -12,6 +12,10 @@ gatsby new gatsby-example-site
 ## TODO LIST
 
 - Do a similar thing to FG with css but shall probably take the SASS version and teach Dan about that
+- Add Google Analytics
+- Add Disqus
+
+# Reading list
 - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-merge
 - https://www.gitbook.com/book/btroncone/learn-rxjs/details
 - https://www.learnrxjs.io/operators/combination/merge.html
