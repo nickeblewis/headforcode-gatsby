@@ -1,5 +1,9 @@
 ---
 title: Integrating Disqus
+date: 2017-06-28
+author: Nick Lewis
+featured: true
+description: How to implement Disqus commenting in your own site
 ---
 
 Integrating Disqus is really easy, we implemented it via the following steps:
