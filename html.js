@@ -31,7 +31,7 @@ export default class HTML extends React.Component {
     }
 
     if ( process.env.NODE_ENV !== 'production' || config.buildSPA ) {
-      js =  <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) }/>;
+      // js =  <script src={ prefixLink(`/bundle.js?t=${BUILD_TIME}`) }/>;
     } else {
       ga = <script dangerouslySetInnerHTML={ {__html: require('!raw!./static/ga-snippet.js').replace('UA-XXXXX-Y', config.googleAnalyticsId)} }></script>;
     }
