@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import { config } from 'config'
 import ReactDisqus from 'react-disqus'
 
-// import '../css/zenburn.css'
+import '../css/styles.css'
 
 class Markdown extends React.Component {
   handleNewCommen(comment) {
