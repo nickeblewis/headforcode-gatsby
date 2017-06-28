@@ -12,3 +12,4 @@ https://developers.google.com/web/updates/2017/04/devtools-release-notes#async
 
 https://developers.google.com/web/updates/2017/04/devtools-release-notes#command-menu
 
+What are snippets?
