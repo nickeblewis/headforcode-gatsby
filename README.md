@@ -16,6 +16,7 @@ gatsby new gatsby-example-site
 - Add Disqus (having issues with this at the moment) - DONE
 - Started upgrading to v1.0 under a branch called beta, will return to that - TODO
 - Get Netlify forms working correctly
+- styling on markdown pages isn't 100%, no bullets, no heading styles and so on
 
 # Reading list
 - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-merge
