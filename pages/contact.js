@@ -47,7 +47,7 @@ class Index extends React.Component {
 <div className="mb4">
   <h4 className="f3 b lh-title mb3 tc">Drop us a line below</h4>
 
-  <form name="contact-form" method="post" action="/thank-you/">
+  <form name="contact-form" method="post" action="/thank-you/" netlify>
     <input type="hidden" name="form-name" value="contact-form" />
     <div className="flex-l mhn1-l">
           
