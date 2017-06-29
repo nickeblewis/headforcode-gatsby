@@ -9,7 +9,7 @@ p {
 }
 
 .markdown ul {
-        display: block;
+    display: block;
     list-style-type: disc;
     -webkit-margin-before: 1em;
     -webkit-margin-after: 1em;
