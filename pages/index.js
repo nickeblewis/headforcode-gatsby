@@ -30,7 +30,7 @@ class Index extends React.Component {
 		        <div className="w-100 flex-ns mhn1-ns flex-wrap mb3">
 				      
 				      
-              {visiblePages.map((page) => (
+              {visiblePages.slice(0,4).map((page) => (
               
               <div key={page.path} className="ph1-ns w-50-ns flex">
                 <Link to={prefixLink(page.path)} className="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
