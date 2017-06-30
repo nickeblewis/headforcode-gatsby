@@ -2,6 +2,8 @@
 title: Exploring LoopBack
 ---
 
+## Building an API
+
 ``` bash
 npm install -g loopback-cli
 mkdir my-loopback
