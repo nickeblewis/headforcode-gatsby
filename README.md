@@ -24,6 +24,7 @@ gatsby new gatsby-example-site
 - http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html#instance-method-merge
 - https://www.gitbook.com/book/btroncone/learn-rxjs/details
 - https://www.learnrxjs.io/operators/combination/merge.html
+- https://css-tricks.com/move-modal-path/
 
 ## Found more 
 
