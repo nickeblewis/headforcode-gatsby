@@ -9,6 +9,7 @@ The homepage should focus a bit more on our key areas of profitable business
 - Consuming API to generate web documents
 - Integration between front-end and bac-end services using loopback
 - JamStack
+- Build UIs for your back-ends or hardware devices
 ### Farnborough Guide
 Available both as a web app and mobile app
 ### Mapugo
