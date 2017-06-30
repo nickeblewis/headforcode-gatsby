@@ -37,3 +37,8 @@ https://cloud.google.com/functions/
 https://serverless.com/framework/docs/providers/aws/guide/functions/
 https://en.wikipedia.org/wiki/Serverless_computing
 https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/
+
+## How to use Redux or any other Provider for that matter
+
+https://github.com/gatsbyjs/gatsby/releases/tag/v0.12.34
+
