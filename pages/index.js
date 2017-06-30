@@ -14,7 +14,7 @@ class Index extends React.Component {
   render() {
     // Sort pages.
       console.log(this.props)
-    const sortedPages = sortBy(this.props.route.pages, 'data.date')
+    const sortedPages = sortBy(this.props.route.pages, 'data.date').reverse();
     // Posts are those with md extension that are not 404 pages OR have a date (meaning they're a react component post).
     const visiblePages = sortedPages.filter(page => (
       get(page, 'file.ext') === 'md' && !include(page.path, '/404') && get(page, 'data.type' === 'post' ) || get(page, 'data.date')
@@ -26,7 +26,7 @@ class Index extends React.Component {
 
         <div className="bg-off-white pv4">
 	        <div className="ph3 mw7 center">
-		        <h2 className="f2 b lh-title mb3">Fresh from the blog</h2>
+		        {/*<h2 className="f2 b lh-title mb3">Fresh from the blog</h2>*/}
 		        <div className="w-100 flex-ns mhn1-ns flex-wrap mb3">
 				      
 				      
