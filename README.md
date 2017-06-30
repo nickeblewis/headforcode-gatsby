@@ -25,3 +25,15 @@ gatsby new gatsby-example-site
 - https://www.gitbook.com/book/btroncone/learn-rxjs/details
 - https://www.learnrxjs.io/operators/combination/merge.html
 
+## Found more 
+
+Taken from https://www.graph.cool/docs/tutorials/freecom-5-serverless-functions-wohfoa8ahz/#wrap-up
+
+
+https://martinfowler.com/articles/serverless.html
+https://stdlib.com/
+https://azure.microsoft.com/en-us/services/functions/
+https://cloud.google.com/functions/
+https://serverless.com/framework/docs/providers/aws/guide/functions/
+https://en.wikipedia.org/wiki/Serverless_computing
+https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/
