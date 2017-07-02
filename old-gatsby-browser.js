@@ -9,8 +9,8 @@ import { FREECOM_AUTH_TOKEN_KEY } from './constants'
 
 // in your gatsby-browser.js
 
-import { Provider } from 'react-redux'
-import store from './store'
+// import { Provider } from 'react-redux'
+// import store from './store'
 
 // Create WebSocket client
 const wsClient = new SubscriptionClient(`wss://subscriptions.graph.cool/v1/cizf8g3fr1sp90139ikdjayb7`, {
@@ -58,7 +58,8 @@ const freecom = {
 exports.wrapRootComponent = Root => {
   return () => (
     <ApolloProvider client={client}>
-      <Root frrrcom={freecom} />
+      <Root freecom={freecom} />
     </ApolloProvider>
   );
 };
+
