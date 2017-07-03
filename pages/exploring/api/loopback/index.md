@@ -12,6 +12,7 @@ Imagine that we were working on a project to show some form of dashboard for a d
 ## Benefits of LoopBack
 
 The ability to build your own API quickly and your code is automatically generated along the way. You are given a choice of being able to store data in memory, in a file or you can of course hook up with external datasources of pretty much any kind.
+
 ## Building an API
 
 ``` bash
