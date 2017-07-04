@@ -32,3 +32,14 @@ Then at the top of the page there is a "delete" button, click that and you will 
 
 ## Adding media to your content
 
+To add media to your content is ultimatly the next step that you will want to take. 
+
+You can add media to your content in a few different ways, one way is to go to a page in your site and then in the rich text
+
+editor, you can add a image. Just like you would in a word document.
+
+You can also add it as a image on its own. For example if you had a grid on your page and it was two colunms wide then on
+
+the first colunm you could have a picture and then in the second one had text explaining the picture or writing something 
+
+linked to the image.
