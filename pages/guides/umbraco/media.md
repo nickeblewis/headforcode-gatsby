@@ -24,7 +24,11 @@ NOT TOO SURE WHAT TO DO FOR THIS NICK PLEASE HELP
 
 ## Deleting Media
 
+To delete media you need to get to the media that you would like to gt rid of by going to the right folder and then cick on 
 
+the media that you wish to delete and a blue tick will appear at the top right of the file.
+
+Then at the top of the page there is a "delete" button, click that and you will have successfully deleted your desired media.
 
 ## Adding media to your content
 
