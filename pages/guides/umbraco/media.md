@@ -20,9 +20,11 @@ When media is uploaded, it will display a tick next to the file, this is how you
 
 ## Updating Media
 
-
+NOT TOO SURE WHAT TO DO FOR THIS NICK PLEASE HELP
 
 ## Deleting Media
+
+
 
 ## Adding media to your content
 
