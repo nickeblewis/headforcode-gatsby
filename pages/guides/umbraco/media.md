@@ -22,7 +22,7 @@ To delete media you need to get to the media that you would like to gt rid of by
 the media that you wish to delete and a blue tick will appear at the top right of the file.
 Then at the top of the page there is a "delete" button, click that and you will have successfully deleted your desired media.
 
-## Adding media to your content
+## Adding Media to your Content
 
 To add media to your content is ultimatly the next step that you will want to take. 
 You can add media to your content in a few different ways, one way is to go to a page in your site and then in the rich text
