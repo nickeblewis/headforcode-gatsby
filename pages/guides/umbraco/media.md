@@ -9,6 +9,7 @@ You need to navigate to the "Media" tab in the "section menu".
 ![Media Menu Screenshot](screenshot_of_media_menu.png)
 Then you need to select the right folder for the file you want to upload, so if you have a PDF then select the "PDF" folder,
 if its a jpg, png, etc. then select the "picture" folder.
+![Pick the Right Folder](Which_folder.png)
 Then you will be displayed with a list of the media underneath a "Upload Box". 
 The "Upload Box" can be clicked on to upload files from your computer or you can drag a drop files into it.
 When media is uploaded, it will display a tick next to the file, this is how you know the file has uploaded successfully.
