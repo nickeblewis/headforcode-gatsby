@@ -1,3 +1,4 @@
+/* TODO: This page needs some work to make it look like a decent blog landing page */
 import React from 'react'
 import moment from 'moment'
 import { Link } from 'react-router'
