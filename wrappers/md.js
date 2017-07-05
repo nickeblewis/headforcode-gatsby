@@ -8,12 +8,13 @@
 
 import React from 'react'
 import PropTypes from 'prop-types'
-import 'css/markdown-styles.css'
+import '../css/markdown-styles.css'
 import Helmet from 'react-helmet'
 import { config } from 'config'
 import ReactDisqus from 'react-disqus'
 
-import '../css/styles.css'
+// import '../css/styles.css'
+import '../css/main.css'
 
 class Markdown extends React.Component {
   render() {
