@@ -15,7 +15,7 @@ gatsby new gatsby-example-site
 
 
 - Started upgrading to v1.0 under a branch called beta, will return to that - TODO
-- Get Netlify forms working correctly
+- Get Netlify forms working correctly, still not working for me, frustrating, maybe implement another solution failing all that??????
 - ~~styling on markdown pages isn't 100%, no bullets, noheading styles and so on~~
 - ~~Add Google Analytics~~
 - ~~Add Disqus (having issues with this at the moment)~~
@@ -43,3 +43,15 @@ https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/
 
 https://github.com/gatsbyjs/gatsby/releases/tag/v0.12.34
 
+## Inspired by the structure and look of sites like
+
+- TechCrunch
+- https://css-tricks.com/the-tenth-fourth/#more-256351
+
+## Sections we could have on H4C
+
+- Videos
+- Gallery (possibly just hooked up to Instagram)
+- Wiki
+- Gists
+- Guides
