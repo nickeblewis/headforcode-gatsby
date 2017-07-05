@@ -14,8 +14,8 @@ When media is uploaded, it will display a tick next to the file, this is how you
 
 ## Updating Media
 
-NOT TOO SURE WHAT TO DO FOR THIS NICK PLEASE HELP
-
+First you need to make sure that your new files are in the media libary, when this is done you can move on to the next step.
+You then need to find the place that you want to update your media (e.g. "homepage"), then simply update it by deleting the old file (Look at Deleting Media) and then inserting the new file (Look at: Adding Media to your Content).
 ## Deleting Media
 
 To delete media you need to get to the media that you would like to gt rid of by going to the right folder and then cick on 
