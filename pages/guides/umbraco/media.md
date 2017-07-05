@@ -12,7 +12,7 @@ Then you will be displayed with a list of the media underneath a "Upload Box".
 The "Upload Box" can be clicked on to upload files from your computer or you can drag a drop files into it.
 When media is uploaded, it will display a tick next to the file, this is how you know the file has uploaded successfully.
 
-## Updating Media
+## Editing Media
 
 First you need to make sure that your new files are in the media libary, when this is done you can move on to the next step.
 You then need to find the place that you want to update your media (e.g. "homepage"), then simply update it by deleting the old file (Look at Deleting Media) and then inserting the new file (Look at: Adding Media to your Content).
