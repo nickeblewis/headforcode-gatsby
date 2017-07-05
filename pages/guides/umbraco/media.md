@@ -6,6 +6,7 @@ title: Media Library
 
 Adding media is very simple. 
 You need to navigate to the "Media" tab in the "section menu".
+![Media Menu Screenshot](screenshot_of_media_menu.png)
 Then you need to select the right folder for the file you want to upload, so if you have a PDF then select the "PDF" folder,
 if its a jpg, png, etc. then select the "picture" folder.
 Then you will be displayed with a list of the media underneath a "Upload Box". 
