@@ -8,7 +8,9 @@ Adding media is very simple. You need to navigate to the "Media" tab in the "sec
 ![Media Menu Screenshot](screenshot_of_media_menu.png)
 Then you need to select the right folder for the file you want to uploa.d, so if you have a PDF then select the "PDF" folder, if its a jpg, png, etc. then select the "picture" folder.
 ![Pick the Right Folder](Which_folder.png)
-Then you will be displayed with a list of the media underneath a "Upload Box". The "Upload Box" can be clicked on to upload files from your computer or you can drag a drop files into it. When media is uploaded, it will display a tick next to the file, this is how you know the file has uploaded successfully.
+Then you will be displayed with a list of the media underneath a "Upload Box". 
+![List of Files](list_of_files.png)
+The "Upload Box" can be clicked on to upload files from your computer or you can drag a drop files into it. When media is uploaded, it will display a tick next to the file, this is how you know the file has uploaded successfully.
 ## Editing Media
 
 First you need to make sure that your new files are in the media libary, when this is done you can move on to the next step. You then need to find the place that you want to update your media (e.g. "homepage"), then simply update it by deleting the old file (Look at Deleting Media) and then inserting the new file (Look at: Adding Media to your Content).
