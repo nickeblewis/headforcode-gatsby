@@ -20,7 +20,7 @@ Make sure you save when everything is uploaded!
 First you need to make sure that your new files are in the media libary, when this is done you can move on to the next step. You need to find the place that you want to update your media (e.g. "homepage/photos/page components/photos/portrait1"), ![Portrait 1](portrait1.png) then simply update it by deleting the old file (Look at Deleting Media) and then inserting the new file (Look at: Adding Media to your Content).
 ## Deleting Media
 
-To delete media you need to get to the media that you would like to gt rid of by going to the right folder and then cick on the media that you wish to delete and a blue tick will appear at the top right of the file. Then at the top of the page there is a "delete" button, click that and you will have successfully deleted your desired media.
+To delete media from the media libary, you need to go to the media libary, select the media that you wish to delete and a blue tick will appear at the top right of the files you select. ![Selected Files](selected_files.png) Then at the top of the page there is a "delete" button, ![Delete Button](delete_button.png) click that then click "okay" on the pop-up window and you will have successfully deleted the media.
 ## Adding Media to your Content
 
 To add media to your content is ultimatly the next step that you will want to take. 
