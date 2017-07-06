@@ -6,7 +6,6 @@ import Helmet from 'react-helmet'
 import { config } from 'config'
 import sortBy from 'lodash/sortBy'
 import get from 'lodash/get'
-import include from 'underscore.string/include'
 import { JumboTron, IntroBlock } from 'components'
 // import IntroBlock from 'components/IntroBlock'
 
@@ -17,7 +16,7 @@ class Index extends React.Component {
     const sortedPages = sortBy(this.props.route.pages, 'data.date').reverse();
     // Posts are those with md extension that are not 404 pages OR have a date (meaning they're a react component post).
     const visiblePages = sortedPages.filter(page => (
-      get(page, 'file.ext') === 'md' && !include(page.path, '/404') && get(page, 'data.type' === 'post' ) || get(page, 'data.date')
+      get(page, 'file.ext') === 'md' && get(page, 'data.featured' === 'yes' ) || get(page, 'data.date')
     ))
     return (
       <div>
