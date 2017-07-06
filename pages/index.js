@@ -21,7 +21,7 @@ class Index extends React.Component {
     ))
     return (
       <div>
-        <JumboTron topline="Developing web apps since 2002" secondline="We can help build yours..." />
+        <JumboTron topline="Developing web apps since 2010" secondline="We can help build yours..." />
         <IntroBlock />
 
         <div className="bg-off-white pv4">

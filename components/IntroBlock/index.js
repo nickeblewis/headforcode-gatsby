@@ -15,7 +15,7 @@ class IntroBlock extends React.Component {
       <div className="ph2-ns w-50-ns">
         {/*<img src={require("./iStock-505021766.jpg")} alt="" className="center db mb3"  />*/}
         <h4 className="f4 b tc lh-title mb2 primary">Contracting</h4>
-        <p>I have been contracting since 2002 and have worked for numerous companies and projects over the years. You are more than welcome to request a copy of my CV via the contact page. I am currently not on the lookout, as I am busy working with PCL just outside of Leatherhead, in Surrey. I am always happy to network with people via LinkedIn in the meanwhile.</p>
+        <p>I have been contracting since 2010 and have worked for numerous companies and projects over the years. You are more than welcome to request a copy of my CV via the contact page. I am currently not on the lookout, as I am busy working with PCL just outside of Leatherhead, in Surrey. I am always happy to network with people via LinkedIn in the meanwhile.</p>
       </div>
 
       <div className="ph2-ns w-50-ns">
