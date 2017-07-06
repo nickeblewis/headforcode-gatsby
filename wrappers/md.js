@@ -13,7 +13,7 @@ import Helmet from 'react-helmet'
 import { config } from 'config'
 import ReactDisqus from 'react-disqus'
 
-// import '../css/styles.css'
+import '../css/styles.css'
 import '../css/main.css'
 
 class Markdown extends React.Component {
