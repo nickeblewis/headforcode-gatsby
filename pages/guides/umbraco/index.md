@@ -20,3 +20,7 @@ First of all it's very useful to understand how the back office dashboard is lai
 
 The screen is split into two main areas, on the left-hand side you will find the "Section Menu" with the top option being content. The majority of the rest of the screen is taken up by the main panel which changes as you cycle through the options in the "Section Menu". 
 
+## Next steps
+
+- [Working with content](/guides/umbraco/content/)
+- [Getting to know the Media Library](/guides/umbraco/media/)
