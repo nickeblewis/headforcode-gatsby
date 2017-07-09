@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Excercise 2 - Removing unwanted stuff</h1>\n<h2>Pre-flight checks!</h2>\n<p>First of all let us check that we are in the right folder and in the right branch</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-bash\"><code>$ <span class=\"token function\">cd</span> /c/proj/headforcode\n$ <span class=\"token function\">git</span> status\n</code></pre>\n      </div>\n<p>We should be in the Master branch, the <strong>git status</strong> command will inform us of this and you can also tell form the Terminal window too. If we are not and you only need to do this, if you are in an alternative branch:</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-bash\"><code>$ <span class=\"token function\">git</span> checkout Master\n</code></pre>\n      </div>\n<p>Will make sure we are back in the right place.</p>\n<h2>We are about to pick up on a piece of work</h2>\n<p>Let’s imagine I’ve given you a piece of work to do, it could be an enhancement, a bug fix or something new. Perhaps you have spotted something that isn’t right and you want to change it. In either case, it is a great idea to create a new branch, so lets do that. I am going to give you a little fix to make to this site.</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-bash\"><code>$ <span class=\"token function\">git</span> branch <span class=\"token string\">\"removestuff\"</span>\n</code></pre>\n      </div>",
+            "frontmatter": {
+                "title": "Excercise 2 - Removing unwanted stuff"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week43/excercise2/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>-</p>\n<p>TODO</p>",
+            "frontmatter": {
+                "title": "Newsletters"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/services/newsletters/"
+    }
+}

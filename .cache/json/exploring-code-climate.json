@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>I am currently evaluating how code climate can be of benefit to our business. Yet to install it and do a write-up…</p>\n<h3>Other options we could consider</h3>\n<ul>\n<li>Travis</li>\n<li>Appveyor</li>\n</ul>\n<p>Both of which we can add badges to the main README file for example</p>",
+            "frontmatter": {
+                "title": "Code Climate"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/exploring/code-climate/"
+    }
+}

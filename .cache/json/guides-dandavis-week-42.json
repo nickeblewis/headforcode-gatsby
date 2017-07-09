@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Welcome…</h1>\n<div>\n          <div\n            class=\"gatsby-resp-iframe-wrapper\"\n            style=\"padding-bottom: 54.0625%; position: relative; height: 0; overflow: hidden;\"\n          >\n            <iframe src=\"https://player.vimeo.com/video/187444928\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen=\"true\" style=\"\n            position: absolute;\n            top: 0;\n            left: 0;\n            width: 100%;\n            height: 100%;\n          \"></iframe>\n<p><a href=\"https://vimeo.com/187444928\">course-introduction</a> from <a href=\"https://vimeo.com/nicklewis\">Nick Lewis</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>\n          </div>\n          </div>\n<p>What we shall be learning on this course</p>\n<ul>\n<li><a href=\"install-node\">Installing NodeJS and NPM</a></li>\n<li><a href=\"install-visual-studio-code\">Installing Visual Studio Code</a></li>\n<li><a href=\"installing-git-bash\">Installing Git Bash</a></li>\n<li><a href=\"hello-world\">Write a simple ‘Hello World’ program in NodeJS</a></li>\n<li><a href=\"hello-http\">Write a simple ‘Hello World’ server in Node</a></li>\n<li><a href=\"join-github\">Github and creating your own free account</a></li>\n<li>TODO How to push your really simple Hello World program to your Github account</li>\n<li>TODO How to get a copy of this website running on your laptop</li>\n<li>TODO Insight: NodeJS powered web site (application)</li>\n<li>TODO Insight: Ionic apps and how to build Hybrid mobile apps</li>\n</ul>",
+            "frontmatter": {
+                "title": "JS - Introduction"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week42/"
+    }
+}

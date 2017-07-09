@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>Adding Content</h2>\n<p>When adding content you need to know what you are looking to achieve in the end.\nTo add a new page, you select where you would like it to be displayed under in the tree (e.g. “homepage/events”)\nthen you click on the elipses and select an item (e.g. “General Page”).</p>\n<h2>Editing Content</h2>\n<p>When editing content you also need to know what you want to achieve.\nFor example if you had spelling mistakes in the “homepage/events/charity-ball” then you would click the item in the tree\nthat contains the rich text editor then you can jump right in and edit it the way you would do with a word document.</p>\n<h2>Deleting Content</h2>\n<p>To delete content is pretty simple.\nall that is required if deleting text is that you go to the required rich text editor, select the text you wish to delete and\nthen you can get rid of it as you would a word document.</p>",
+            "frontmatter": {
+                "title": "Umbraco Content"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/umbraco/content/"
+    }
+}

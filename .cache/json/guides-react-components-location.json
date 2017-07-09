@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>This demonstrates something…</p>\n<p>Courtesy of <a href=\"https://www.npmjs.com/package/react-google-map\">https://www.npmjs.com/package/react-google-map</a></p>\n<p>TODO</p>\n<ul>\n<li>Would like to include the sidenav as we do with the Docs layout type</li>\n</ul>",
+            "frontmatter": {
+                "title": "Location"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/react/components/location/"
+    }
+}

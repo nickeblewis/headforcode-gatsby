@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO - sendgrid writeup</p>",
+            "frontmatter": {
+                "title": "Sendgrid"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/services/sendgrid/"
+    }
+}

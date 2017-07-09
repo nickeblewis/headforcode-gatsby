@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>How to check if a variable is undefined:</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-js\"><code>  <span class=\"token keyword\">if</span><span class=\"token punctuation\">(</span>branches <span class=\"token operator\">!==</span> <span class=\"token keyword\">null</span> <span class=\"token operator\">||</span> branches <span class=\"token operator\">!==</span> undefined<span class=\"token punctuation\">)</span>\n    console<span class=\"token punctuation\">.</span><span class=\"token function\">log</span><span class=\"token punctuation\">(</span><span class=\"token string\">'branches'</span><span class=\"token punctuation\">,</span> branches<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n</code></pre>\n      </div>\n<p>Others???</p>",
+            "frontmatter": {
+                "title": "Checking undefined"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/useful/javascript/checking-undefined/"
+    }
+}

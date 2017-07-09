@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Useful sites</h1>\n<p><a href=\"https://css-tricks.com/learning-react-router/\">https://css-tricks.com/learning-react-router/</a></p>",
+            "frontmatter": {
+                "title": "Useful sites"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/usefulsites/"
+    }
+}

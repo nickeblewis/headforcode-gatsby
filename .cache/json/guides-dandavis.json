@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Welcome…</h1>\n<p>I am now starting to put together a more stuctured series of weekly courses that will focus on various things to help you learn, to complement CodeAcademy. We are splitting it down into weeks\nnumbered by calendar weeks and I shall let you know which one we are doing each week.</p>\n<h2>2017</h2>\n<p>We had started following a weekly schedule and then kind of got lost in the mix somewhere, so I have put together a plan of sorts, that takes into account the stuff we shall learn for College alongside building the business further throughout 2017. The aim is to keep busy with the following things:</p>\n<ul>\n<li>Farnborough Guide - lets really push this one forwards</li>\n<li>HeadForCode - you are already using it and I am going to continue building it up as a great resource for Developers all over the World</li>\n<li>NVQ - using the syllabus as a guide we can pick up on its topics before we need to</li>\n<li>Consultancy</li>\n<li>research</li>\n<li>mentoring</li>\n<li>e-cards</li>\n<li>nfolio</li>\n<li>bookavation</li>\n<li>carpnado</li>\n<li>bentley</li>\n<li>david s</li>\n<li>tutlio</li>\n<li>screencasts</li>\n</ul>\n<p>Don’t worry, I will share the links with you as we work through this.</p>",
+            "frontmatter": {
+                "title": "The Hub"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/"
+    }
+}

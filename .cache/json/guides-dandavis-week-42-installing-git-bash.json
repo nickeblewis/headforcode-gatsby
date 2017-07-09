@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Installing Git Bash</h1>\n<p>Dan: I am pretty sure you already have this but if not, please pop a comment in the boxes below and I will get an email to notify me that you need some help with this. Thanks.</p>\n<p>Back to: <a href=\"/courses/series/javascript\">Course Index</a></p>",
+            "frontmatter": {
+                "title": "Installing Git Bash"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week42/installing-git-bash/"
+    }
+}

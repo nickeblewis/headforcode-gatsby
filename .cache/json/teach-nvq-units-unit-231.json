@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Unit 231: Website Software</h1>\n<p>TODO</p>",
+            "frontmatter": {
+                "title": "Website Software"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit231/"
+    }
+}

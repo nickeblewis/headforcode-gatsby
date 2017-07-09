@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO</p>",
+            "frontmatter": {
+                "title": "Sitemaps"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/google/sitemap/"
+    }
+}

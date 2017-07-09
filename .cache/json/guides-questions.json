@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>What is an opaque header?</p>",
+            "frontmatter": {
+                "title": "Questions"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/questions/"
+    }
+}

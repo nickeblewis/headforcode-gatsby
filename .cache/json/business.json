@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "",
+            "frontmatter": {
+                "title": "Business"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/"
+    }
+}

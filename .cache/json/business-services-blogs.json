@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO</p>\n<p>NOTES</p>\n<ul>\n<li>We don’t use Wordpress or equivalent</li>\n<li>We are building our own tools based on Phenomic, Node, React and APIs for a static build</li>\n</ul>",
+            "frontmatter": {
+                "title": "Blogs"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/services/blogs/"
+    }
+}

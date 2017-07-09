@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Unit 223 : User Profile Administration</h1>\n<p>TODO</p>",
+            "frontmatter": {
+                "title": "User Profile Administration"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit223/"
+    }
+}

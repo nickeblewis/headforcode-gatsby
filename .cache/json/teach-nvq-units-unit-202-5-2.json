@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>5.2 State the organisation’s brand or image</h2>\n<ul>\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" disabled> The headforcode logo is our image </p>\n<ul>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I have images on the Mac that I shall share with you all</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> One thing we don’t have yet is a “style guide”, so let’s create one and write about what it is</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Then apply the style guide to this site and make sure our logo is displayed in as many places as possible</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Where would you consider that logo to appear? Clue: Not just websites…</li>\n</ul>\n</li>\n</ul>",
+            "frontmatter": {
+                "title": "5.2 State the organisation’s brand or image"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit202/5.2/"
+    }
+}

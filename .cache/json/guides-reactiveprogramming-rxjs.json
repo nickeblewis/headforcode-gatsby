@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>Introduction to reactive programming</h2>\n<p>Time to get to grips with what Reactive Programming is and the tools available to us.</p>\n<ul>\n<li>Reading the following article <a href=\"https://gist.github.com/staltz/868e7e9bc2a7b8c1f754\">https://gist.github.com/staltz/868e7e9bc2a7b8c1f754</a>. Which is proving to be very useful indeed, as it describes what the heck this thing is!</li>\n<li>Observer design pattern</li>\n</ul>",
+            "frontmatter": {
+                "title": "What is RxJS"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/reactiveprogramming/rxjs/"
+    }
+}

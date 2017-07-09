@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>5.1 List the aims and objectives of the organisation</h2>\n<h3>This is  a mission statement we don’t have one so you could look at what we could have</h3>\n<ul>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Let me know what you have put together and have learnt about along the way</li>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> I shall write something myself and we can see how they compare</li>\n</ul>\n<h3>Give some thought to where we would like the business to be in 6 months and where we would want to be in 5 years.  there isn’t a right or wrong answer to this</h3>\n<ul>\n<li class=\"task-list-item\"><input type=\"checkbox\" disabled> Let’s discuss this when we are together and we can write down what we think makes sense to us</li>\n</ul>",
+            "frontmatter": {
+                "title": "5.1 List the aims and objectives of the organisation"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit202/5.1/"
+    }
+}

@@ -1,12 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router'
-import { prefixLink } from 'gatsby-helpers'
-import { rhythm } from 'utils/typography'
 import Helmet from 'react-helmet'
-import { config } from 'config'
 import sortBy from 'lodash/sortBy'
 import get from 'lodash/get'
-import { JumboTron, IntroBlock } from 'components'
+import { JumboTron, IntroBlock } from '../components'
 // import IntroBlock from 'components/IntroBlock'
 
 class Index extends React.Component {

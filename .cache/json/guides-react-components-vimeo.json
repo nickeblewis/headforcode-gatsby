@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>This page demonstrates our special Media player layout and in fact it can handle multiple things, Vimeo for one, Youtube, SoundCloud, Facebook and others</p>\n<p>We pass the URL in as part of the FrontMatter attributes and this is displayed in a video component, simple as that.</p>\n<p>TODO</p>\n<ul>\n<li>Would like to include the sidenav as we do with the Docs layout type </li>\n</ul>",
+            "frontmatter": {
+                "title": "Vimeo Test Harness"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/react/components/vimeo/"
+    }
+}

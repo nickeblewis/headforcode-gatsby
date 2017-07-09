@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO - write about how we use front end technologies for this website</p>",
+            "frontmatter": {
+                "title": "How it works for HeadForCode"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/react/headforcode/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Unit 226 - Database Software</h1>\n<p>Dan - I hope this gives you some clues on these two topics… I will dig around for some more information for you asap.</p>\n<h2>1.1 - Identify the components of database design</h2>\n<ul>\n<li>Tables - columns/fields and rows of data values</li>\n<li>Schemas - defining the different types of field such as string, integers etc</li>\n<li>Relationships - keys, primary keys and foreign keys</li>\n<li>Indexes (indices)</li>\n</ul>\n<h2>1.4 - Describe ways to maintain database integrity</h2>\n<p><strong>database integrity</strong> is the concept behind data consistency, that you adopt a set of rules for how you design and build your database. In essence, your database should be a genuine representation of the World that it represents.</p>\n<h2>Some useful sites I have found</h2>\n<p><a href=\"http://searchsqlserver.techtarget.com/feature/Enforcing-data-integrity-in-a-SQL-Server-database\">http://searchsqlserver.techtarget.com/feature/Enforcing-data-integrity-in-a-SQL-Server-database</a></p>",
+            "frontmatter": {
+                "title": "Database Software"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit226/"
+    }
+}

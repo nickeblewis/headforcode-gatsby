@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>Integrating Disqus is really easy, we implemented it via the following steps:</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-bash\"><code><span class=\"token function\">npm</span> <span class=\"token function\">install</span> react-disqus --save\n</code></pre>\n      </div>\n<p>Then add the following to a convenient place in your code. Since we are using Gatsby for this site, we added it to <code>wrappers/md.js</code> and it goes like this:</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-js\"><code><span class=\"token keyword\">import</span> ReactDisqus <span class=\"token keyword\">from</span> <span class=\"token string\">'react-disqus'</span>\n\n<span class=\"token function\">render</span><span class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token keyword\">return</span><span class=\"token punctuation\">(</span>\n    <span class=\"token operator\">&lt;</span>ReactDisqus shortname<span class=\"token operator\">=</span><span class=\"token string\">\"your-short-name\"</span> <span class=\"token operator\">/</span><span class=\"token operator\">></span>\n  <span class=\"token punctuation\">)</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n      </div>\n<p>That is pretty much the gist of it.</p>\n<p>We did have to add trusted domains via Disqus settings, as initially we did see error messages and it took a couple of hours before it worked properly. Hopefully you won’t hit the same problems when you install it.</p>",
+            "frontmatter": {
+                "title": "Integrating Disqus"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/useful/javascript/integrations/disqus/"
+    }
+}

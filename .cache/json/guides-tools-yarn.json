@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO: Write about Yarn</p>",
+            "frontmatter": {
+                "title": "Yarn"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/tools/yarn/"
+    }
+}

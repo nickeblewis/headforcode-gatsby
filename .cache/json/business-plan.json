@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>The plan for 2017</h1>\n<h2>Contracting</h2>\n<ul>\n<li>PCL contract ends on the 28th April</li>\n<li>\n<p>Taking a break from contracting during May in order to focus on mentoring Dan and ramping up production on our own projects</p>\n<h2>What can I launch with soon?</h2>\n</li>\n<li>FG App</li>\n<li>\n<p>Mapugo</p>\n<h2>What can we roll out later?</h2>\n</li>\n<li>\n<p>FG website</p>\n<h2>Services</h2>\n</li>\n<li>Consider what we are great at doing and offer those things as services</li>\n<li>GraphQL API data</li>\n<li>Charge for APIs</li>\n<li>CMS such as Umbraco</li>\n<li>\n<p>Static site CMS such as how this site is built</p>\n<h2>Pricing</h2>\n</li>\n<li>We essentally have a bottom line that matches contract day rates to meet</li>\n<li>\n<p>Will be hard</p>\n<h2>Promotion and marketing</h2>\n</li>\n<li>This website needs to be active</li>\n<li>We need to offer our mentoring services</li>\n<li>\n<p>Engage with customers and our audience (Freecom is a good route into this)</p>\n<h2>Articles and blogging</h2>\n</li>\n<li>Engage with social media such as LinkedIn and Wordpress</li>\n<li>Write about the emerging Tech we are passionate about, GraphQL for example</li>\n</ul>",
+            "frontmatter": {
+                "title": "Business Plan"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/plan/"
+    }
+}

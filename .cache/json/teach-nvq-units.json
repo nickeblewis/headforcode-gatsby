@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Units</h1>\n<p>The following pages highlight the units we have chosen for this NVQ course and on each page you will find notes explaining what topics we will be covering as part of our day-to-day work at Nick Lewis Ltd (HeadForCode). I hope that you both (Dan and Vinay) find this useful.</p>\n<ul>\n<li><a href=\"unit101\">101: Health and Safety in ICT</a></li>\n<li><a href=\"unit202\">202: Develop own effectiveness and professionalism</a></li>\n<li><a href=\"unit205\">205: Data Modelling</a></li>\n<li><a href=\"unit208\">208: Introduction to IT Systems Development</a></li>\n<li><a href=\"unit212\">212: Creating an Object-Oriented Computer Program</a></li>\n<li><a href=\"unit222\">222: Testing ICT Systems</a></li>\n<li><a href=\"unit223\">223: User Profile Administration</a></li>\n<li><a href=\"unit226\">226: Database Software</a></li>\n<li><a href=\"unit231\">231: Website Software</a></li>\n</ul>\n<p>Hi Dan,\nFor future reference the links to the units for your Diploma and Technical Certificate are\nDiploma\n<a href=\"https://qualifications.pearson.com/content/dam/pdf/NVQ-and-competence-based-qualifications/IT%20and%20Telecoms/2010/Specification/9781446913420_NVQ_Comp_L234_PCfITTP_Issue_4.pdf\">https://qualifications.pearson.com/content/dam/pdf/NVQ-and-competence-based-qualifications/IT%20and%20Telecoms/2010/Specification/9781446913420_NVQ_Comp_L234_PCfITTP_Issue_4.pdf</a>\nTechnical Certificate\n<a href=\"https://qualifications.pearson.com/en/qualifications/btec-specialist-and-professional-qualifications/it-telecoms-and-digital-industries/btec-specialist-ict-systems-and-principles-l2.coursematerials.html#filterQuery=category:Pearson-UK:Category%252FSpecification\">https://qualifications.pearson.com/en/qualifications/btec-specialist-and-professional-qualifications/it-telecoms-and-digital-industries/btec-specialist-ict-systems-and-principles-l2.coursematerials.html#filterQuery=category:Pearson-UK:Category%2FSpecification</a>\nFor your information the units you are doing are\nDiploma units 101, 202, 205, 208, 212, 222, 223, 226 and 231 and Technical Certificate units 2 and 3.\nThanks…Vinay\nVinay K Narang\nIT Work-Based Assessor\nBusiness Services</p>\n<p>[ ] I must take a look at the above documents, we do have printed copies at the office too</p>",
+            "frontmatter": {
+                "title": "Units"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/"
+    }
+}

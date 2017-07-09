@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>JavaScript is an interesting place right now due to the changes taking place within the\nlanguage itself, but it will be easier to start off talking about the slightly older way of doing\nthings before we move on to the “cutting edge”.</p>\n<p>Functions are an integral part of JavaScript and it would be next to useless without them, so it is important to build an\nunderstanding of what they are and how they work.</p>\n<h2>Introduction</h2>\n<p>JavaScript functions are <strong>defined</strong> with the <strong>function</strong> keyword.</p>\n<p>You can use a function <strong>declaration</strong> or a function <strong>expression</strong>.</p>\n<p>All of these things will become clearer as we discuss examples… I shall treat this article as one that will\nevolve over time, so please feel free to discuss usin the comments feature below! I am keen for it to be used so go for it! Go on! ;-)</p>\n<h2>Function Declarations</h2>\n<p>You can <strong>declare</strong> a function using the following syntax:</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-javascript\"><code><span class=\"token keyword\">function</span> <span class=\"token function\">addTogether</span><span class=\"token punctuation\">(</span>a<span class=\"token punctuation\">,</span> b<span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n  <span class=\"token keyword\">return</span> a <span class=\"token operator\">+</span> b<span class=\"token punctuation\">;</span>\n<span class=\"token punctuation\">}</span>\n</code></pre>\n      </div>\n<p>In the above example you would be expecting two values to be passed in</p>\n<h2>Function Expressions</h2>",
+            "frontmatter": {
+                "title": "JavaScript - Functions"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/javascript/functions/"
+    }
+}

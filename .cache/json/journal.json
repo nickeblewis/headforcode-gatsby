@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>Working on getting my head around EPICC again today!</p>\n<p>onDownloadCsv.js</p>\n<ul>\n<li>Should this need a store? It was incorrectly assigned anyway, so have switched it to being transactionSummaryStore</li>\n</ul>\n<p>Action Fired Symbol(CSV_DOWNLOAD)</p>\n<ul>\n<li>the service is called and it is a success (see onDownloadCSV.js)</li>\n<li>cannot read property ‘subscribe’ of undefined</li>\n</ul>\n<h2>Stuff that makes no sense</h2>",
+            "frontmatter": {
+                "title": "24th February 2017"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/journal/"
+    }
+}

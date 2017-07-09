@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>In this guide we walk through how to get up and running with Tachyons using a variety of methods.</p>",
+            "frontmatter": {
+                "title": "Adding Tachyons SASS"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/tachyons/"
+    }
+}

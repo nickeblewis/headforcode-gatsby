@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>Thanks for dropping us a line, we shall endeavour to get back to you as soon as we can.</p>\n<p>Thank you!</p>",
+            "frontmatter": {
+                "title": "Thanks for getting in contact"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/contact/thank-you/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p><a href=\"https://github.com/Polyconseil/react-doks\">https://github.com/Polyconseil/react-doks</a></p>",
+            "frontmatter": {
+                "title": "React-Doks"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/react/tools/react-doks/"
+    }
+}

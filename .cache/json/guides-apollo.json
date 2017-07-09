@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p><a href=\"http://www.apollostack.com/\">http://www.apollostack.com/</a></p>\n<p><a href=\"https://github.com/apollostack/graphql-tools\">https://github.com/apollostack/graphql-tools</a></p>\n<p><a href=\"http://docs.apollostack.com/apollo-server/tools.html\">http://docs.apollostack.com/apollo-server/tools.html</a></p>\n<p><a href=\"http://docs.apollostack.com/index.html\">http://docs.apollostack.com/index.html</a></p>\n<p><a href=\"http://docs.apollostack.com/apollo-server/tools.html\">http://docs.apollostack.com/apollo-server/tools.html</a></p>\n<p><a href=\"http://docs.apollostack.com/apollo-client/index.html\">http://docs.apollostack.com/apollo-client/index.html</a></p>",
+            "frontmatter": {
+                "title": "Apollo"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/apollo/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO - added repo to the frontmatter so that I can add it as a subscript title of an md.js generated page if it is present</p>\n<p>NOTES - Love Next’s tutorial app and the question block at the bottom, helps confirm that things are sinking in along the way, we should build something like that and it could be integrated into .md frontmatter</p>\n<p>\n          <a\n            class=\"gatsby-resp-image-link\"\n            href=\"/static/2cd5faf03f299c4cdc7a9d039208d6f4-2ef4f.png\"\n            style=\"display: block\"\n            target=\"_blank\"\n            rel=\"noopener\"\n          >\n            <span\n              class=\"gatsby-resp-image-wrapper\"\n              style=\"position: relative; z-index: -1; display: block; \"\n            >\n              <span\n                class=\"gatsby-resp-image-background-image\"\n                style=\"padding-bottom: 27.608695652173914%;position: relative; width: 100%; bottom: 0; left: 0; background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA2ElEQVQY02P4////t2/f3r59+/nz5xcvXvwnBTAA8e3bty9fvnz16tWXL19++vSJNM1AO9+/e//p0+dfv379/v2bNM0o4B8Y/AchBO8/BP3/C2H//QuSB2r++fPnlctXLjw8deH90esfzl67du3KlSvnnx278O7IjZcXgd4Bch/fPfn5xeHbt28BuS+PXPp25Pq3Q1f/vP3MAAyqrvbOutW5jZeSJ1wpnTR5SndPd/XOlIaLCf0Hatra2rq6ujYsyL29P3rO7BndXZ2HY1qeJ099Hj3h59m7AMGsQzw5dH1qAAAAAElFTkSuQmCC'); background-size: cover; display: block;\"\n              >\n                <img\n                  class=\"gatsby-resp-image-image\"\n                  style=\"width: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;\"\n                  alt=\"\"\n                  title=\"\"\n                  src=\"/static/2cd5faf03f299c4cdc7a9d039208d6f4-2ef4f.png\"\n                  srcset=\"/static/2cd5faf03f299c4cdc7a9d039208d6f4-71707.png 173w,\n/static/2cd5faf03f299c4cdc7a9d039208d6f4-14127.png 345w,\n/static/2cd5faf03f299c4cdc7a9d039208d6f4-2ef4f.png 460w\"\n                  sizes=\"(max-width: 690px) 100vw, 690px\"\n                />\n              </span>\n            </span>\n          </a>\n          </p>",
+            "frontmatter": {
+                "title": "Next.js"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/exploring/next/"
+    }
+}

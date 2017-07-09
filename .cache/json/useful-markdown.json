@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p><a href=\"https://help.github.com/articles/basic-writing-and-formatting-syntax/\">https://help.github.com/articles/basic-writing-and-formatting-syntax/</a></p>",
+            "frontmatter": {
+                "title": "Markdown"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/useful/markdown/"
+    }
+}

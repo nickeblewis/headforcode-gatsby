@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>Over the past year I have been pretty much knuckling down in the React world, learning Redux, Sagas, Apollo, Relay, GraphQL and many pretty cool pieces of technology. I have at times become slightly overwhelmed by it all, not in a bad way but in the sense of realising that the web industry has taken a whole new direction. I began to wonder what would happen if you ignored these new developments? I therefore decided that since I wasn’t ignoring them, I am probably in a good place to continue exploring them further and have reisted the possibility of returning to .NET</p>\n<p>What? Yes I did say that! Panic not, I am certainly committed to the open source world and development with Javascript. Some people shy away from it and I don’t blame them, it does appear to be daunting but if you are able to give it the time (I am lucky because it is my job), you’ll not regret it.</p>\n<p>I am not going to think too much about where this guide will start other than to just begin writing up some markdown articles and to gradually publish them on this site for all to make use of.</p>\n<p>This thing will begin, sometime soon…</p>\n<p>To keep things simple, they will appear as blog posts and later may be structured into something more adventurous :-O</p>",
+            "frontmatter": {
+                "title": "The developers guide"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/blog/the-developers-guide-2017-06-25/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO</p>",
+            "frontmatter": {
+                "title": "Customer Care in ICT"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/apprenticeships/customer-care-in-ict/"
+    }
+}

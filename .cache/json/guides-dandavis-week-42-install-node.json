@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Installing Node and NPM</h1>\n<p>In this video I explain how easy it is to install NodeJS (together with NPM) and later we shall explore what Node\ncan do and how it becomes such a key component in our day-to-day activities as one of the biggest small companies in\nthe World… well you have to dream these things…</p>\n<div>\n          <div\n            class=\"gatsby-resp-iframe-wrapper\"\n            style=\"padding-bottom: 75%; position: relative; height: 0; overflow: hidden;\"\n          >\n            <iframe src=\"https://player.vimeo.com/video/187446781\" frameborder=\"0\" webkitallowfullscreen=\"true\" mozallowfullscreen=\"true\" allowfullscreen=\"true\" style=\"\n            position: absolute;\n            top: 0;\n            left: 0;\n            width: 100%;\n            height: 100%;\n          \"></iframe>\n<p><a href=\"https://vimeo.com/187446781\">Installing Node</a> from <a href=\"https://vimeo.com/nicklewis\">Nick Lewis</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>\n          </div>\n          </div>\n<p>Back to: <a href=\"/courses/series/javascript\">Course Index</a></p>",
+            "frontmatter": {
+                "title": "Install Node and NPM"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week42/install-node/"
+    }
+}

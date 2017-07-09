@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>5.3 Identify the organisation’s structure, roles and responsibilities</h2>\n<ul>\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" disabled> Structure Nick MD me Company Secretary you employee</p>\n<ul>\n<li>Yes, pretty mucch and I would add that Tina is in fact a Director, we opted not to have a Secretary as it is no longer a legal requirement</li>\n<li>We could research how other small startup companies are structured. </li>\n</ul>\n</li>\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" disabled> Roles and responsibilities you can have a go at making up</p>\n<ul>\n<li>\n<p>Let’s chat about this in more detail and write up more detail here but some quick suggestions</p>\n<ul>\n<li>Nick Lewis, Managing Director. I am a very non-traditional MD at the moment because my role is still and always will be very much a technical one. I will delegate more of my tasks to our Junior Developer as he evolves as a membr of the team.</li>\n<li>Tina Lewis, Director. Tina has a wealth of knowledge about business, HSE, Laws and management. Tina is currently assigned to an off-site project for the next few years.</li>\n<li>Dan Davis, Junior Developer. Dan is learning through his apprenticeship to become a developer.</li>\n</ul>\n</li>\n</ul>\n</li>\n<li class=\"task-list-item\">\n<p><input type=\"checkbox\" disabled> Look in companies house website for the official details</p>\n<ul>\n<li>A good thing to know about and I shall show you where it is and how to find us on there</li>\n</ul>\n</li>\n</ul>",
+            "frontmatter": {
+                "title": "5.3 Identify the organisation’s structure, roles and responsibilities"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/teach/nvq/units/unit202/5.3/"
+    }
+}

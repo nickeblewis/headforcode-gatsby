@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p><a href=\"https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage\">https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage</a></p>\n<p><a href=\"https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots\">https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots</a></p>\n<p><a href=\"https://developers.google.com/web/updates/2017/04/devtools-release-notes#block-requests\">https://developers.google.com/web/updates/2017/04/devtools-release-notes#block-requests</a></p>\n<p><a href=\"https://developers.google.com/web/updates/2017/04/devtools-release-notes#async\">https://developers.google.com/web/updates/2017/04/devtools-release-notes#async</a></p>\n<p><a href=\"https://developers.google.com/web/updates/2017/04/devtools-release-notes#command-menu\">https://developers.google.com/web/updates/2017/04/devtools-release-notes#command-menu</a></p>\n<p>What are snippets?</p>\n<h2>Other points of interest</h2>\n<p><a href=\"https://developers.google.com/web/tools/chrome-devtools/javascript/\">https://developers.google.com/web/tools/chrome-devtools/javascript/</a></p>\n<p><a href=\"https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints\">https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints</a></p>\n<p><a href=\"https://developers.google.com/web/tools/chrome-devtools/javascript/reference\">https://developers.google.com/web/tools/chrome-devtools/javascript/reference</a></p>\n<p><a href=\"https://developers.google.com/web/tools/chrome-devtools/ui#command-menu\">https://developers.google.com/web/tools/chrome-devtools/ui#command-menu</a></p>",
+            "frontmatter": {
+                "title": "Chrome Updates"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/useful/chrome/updates/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "",
+            "frontmatter": {
+                "title": "HeadForCode"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/contact/"
+    }
+}

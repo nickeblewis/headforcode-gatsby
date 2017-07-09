@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Install Visual Studio Code</h1>\n<p>Dan: I think you already have this installed, please pop a comment below to let me know if you haven’t, thanks</p>\n<p>Back to: <a href=\"/courses/series/javascript\">Course Index</a></p>",
+            "frontmatter": {
+                "title": "Installing Visual Studio Code (VSC)"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week42/install-visual-studio-code/"
+    }
+}

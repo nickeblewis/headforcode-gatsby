@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>This could be used for headforcode but also Farnborough Guide too???</p>\n<p>I have registered for it and more details can be gleaned from:</p>\n<p><a href=\"https://snipcart.com\">https://snipcart.com</a></p>\n<p>Must verify my email</p>",
+            "frontmatter": {
+                "title": "How could we use Snipcart?"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/snipcart/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>This weeks excercises</h1>\n<p>This week we are going to start doing some new things alongside CodeAcademy and Farnborough Guide, please go through these lessons one by one.</p>\n<p><strong>Time to complete:</strong> 1 week</p>\n<h2>Introduction to how we use Git workflows</h2>\n<ul>\n<li>DONE: <a href=\"lesson1\">Lesson 1</a>: Learn how to “clone” this website to your laptop using Git</li>\n<li>DONE: <a href=\"lesson2\">Lesson 2</a>: Learn how to create a “new branch”</li>\n<li>DONE: <a href=\"lesson3\">Lesson 3</a>: Learn how to create a “pull request”</li>\n<li>DONE: <a href=\"lesson4\">Lesson 4</a>: Learn how we then merge the branch back into the master branch</li>\n<li>TUESDAY: <a href=\"excercise1\">Excercise 1</a>: Let’s bring together lessons 1-4 and do something slightly constructive!</li>\n</ul>\n<h2>and now…</h2>\n<p>Having completed the above excercises that have introduced you to what we call the “Git Workflow” or simply “Gitflow” there are some other jobs to be carried out on HeadForCode, I shall let you know about these once you are ready :-)</p>\n<ul>\n<li>TUESDAY: <a href=\"excercise2\">Excercise 2</a>: Removing unwanted stuff from the project</li>\n</ul>\n<h2>Becoming familiar with the new HeadForCode website project</h2>\n<ul>\n<li>TODO - I am writing some more guides for this week and next</li>\n</ul>\n<h2>What units have we covered in doing all of this?</h2>\n<ul>\n<li>Object Oriented Software</li>\n<li>Web Software</li>\n</ul>\n<h2>CodeAcademy</h2>\n<p>Once you have polished off the Command Line module, see if you can take a look at their courses on the following, they will complement the above excercises.</p>\n<ul>\n<li>Git</li>\n<li>Building a website </li>\n</ul>\n<h2>Next week</h2>\n<p>We shall start looking at how we can build Farnborough Guide using this alternative system and they same workflow you’ve learnt about during week 43. Check back soon for more details!</p>",
+            "frontmatter": {
+                "title": "Week 43"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week43/"
+    }
+}

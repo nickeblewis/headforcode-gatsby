@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>Welcome etc!</p>",
+            "frontmatter": {
+                "title": "RxJS"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/reactiveprogramming/"
+    }
+}

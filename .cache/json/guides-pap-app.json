@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h1>Overview of the project and architectural choices</h1>\n<p>{TODO}</p>\n<h2>app</h2>\n<h3>components</h3>\n<h3>config</h3>\n<h3>containers</h3>\n<h4>App</h4>\n<h4>BranchPage</h4>\n<h4>DashboardPage</h4>\n<h4>HomePage</h4>\n<h4>LoginPage</h4>\n<h4>NotFoundPage</h4>\n<h4>PaymentDetailsPage</h4>\n<h5>actions.js</h5>\n<h5>BankTransfer.js</h5>\n<h5>CardPayments.js</h5>\n<h5>constants.js</h5>\n<h5>FacilitiesFees.js</h5>\n<h5>form.js</h5>\n<h5>index.js</h5>\n<h5>Msc.js</h5>\n<h5>sagas.js</h5>\n<h5>selectors.js</h5>\n<h5>XMLCredentials.js</h5>\n<h4>ProducerPage</h4>\n<h4>UserPage</h4>\n<h3>forms</h3>\n<h3>helpers</h3>\n<h3>public</h3>\n<h3>service</h3>\n<h3>styles</h3>\n<h3>utils</h3>\n<p>app.js\nindex.html\npaths.js\nreducers.js\nroutes.js\nstore.js\nstore.test.js</p>",
+            "frontmatter": {
+                "title": "The Ref Hub"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/pap/app/"
+    }
+}

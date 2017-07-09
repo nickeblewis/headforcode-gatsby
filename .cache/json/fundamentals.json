@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "",
+            "frontmatter": {
+                "title": "Fundamentals of Javascript"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/fundamentals/"
+    }
+}

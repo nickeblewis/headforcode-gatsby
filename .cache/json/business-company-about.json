@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>About us</h2>\n<ul>\n<li>We develop UIs (using ReactJS) to connect you with your online micro-services</li>\n<li>We write</li>\n<li>We provide training/mentoring</li>\n</ul>\n<p>TODO</p>\n<p>Struggling at the mokent to think up what to write here but what is the purpose of this site, of headforcode, what problems domwe solve?</p>\n<p>we help people research technology to better their services</p>\n<p>we develop things and blog about them</p>\n<p>these posts are circulated around the social media</p>\n<p>we compose bespoke training articles for our customers</p>\n<p>REFINE</p>\n<h2>Researching the next idea</h2>\n<p>Here at HeadForCode we are always looking for new problems to solve that can be solved mostly through the likes of Responsive Web Applications. We are forever learning new ways based on what is considered to be the bleeding edge across the industry. </p>\n<p>We draw upon our background in contracting and having worked with a variety of different companies, of varying sizes and spanning a diverse range of industries.</p>\n<h2>Realising that idea</h2>\n<h2>Mentoring</h2>\n<h2>The stuff of dreams</h2>",
+            "frontmatter": {
+                "title": "About HeadForCode"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/business/company/about/"
+    }
+}

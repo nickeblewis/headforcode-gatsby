@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO</p>",
+            "frontmatter": {
+                "title": "Front Eed"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/frontend/"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>TODO</p>",
+            "frontmatter": {
+                "title": "React"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/guides/dandavis/week42/react/"
+    }
+}

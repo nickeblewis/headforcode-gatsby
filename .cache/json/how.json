@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<p>How I built this application</p>\n<p>fg-gatsby\nheadforcode-gatsby</p>\n<ul>\n<li>cd proj</li>\n<li>gatsby new headforcode-gatsby</li>\n<li>cd headforcode-gatsby</li>\n<li>npm install</li>\n<li>gatsby develop</li>\n</ul>\n<p>So we now have a gatsby default site running at localhost:8000</p>\n<ul>\n<li>I then modified package.json with a script for “start” I prefer running npm start!!</li>\n</ul>\n<p>Next I setup my git repo</p>\n<ul>\n<li>git init</li>\n<li>git add .</li>\n<li>git commit -m “first commit”</li>\n<li>git status</li>\n</ul>\n<p>Reveals I have a clean repo</p>\n<p>We then went through the simple steps of creating a github repo and hooking that up with Netlify. Minutes later we both have our simple sites online. We could map domains to these but not yet! </p>\n<h1>Next</h1>\n<ul>\n<li>Become collaborators on eachother’s projects, Dan on headforcode, me on FG</li>\n<li>That way we will have to both raise PRs in order to publish changes on either site</li>\n<li>I will then clone Dan’s</li>\n<li>Dan should then clone mine</li>\n<li>I shall commit a change to Dan’s which will be a copy of this page to help Dan learn how to write some of our pages in MD format</li>\n<li>Next we will structure the pages folder into - Home, About Us and Contact (mimicking the current Umbraco sites for FG and H4C)</li>\n<li>Setup Slack to show notifications under the Deploy channel for when any of our sites are deployed. You will need the following URL for this <a href=\"https://hooks.slack.com/services/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\">https://hooks.slack.com/services/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</a></li>\n<li>Create the contact form for the contact page which won’t be styled the official way yet (that comes later)</li>\n</ul>\n<h1>Probably should</h1>\n<ul>\n<li>npm install —save tachyons-sass</li>\n<li>install into the two projects css folder</li>\n</ul>\n<h1>Other things I have created with Gatsby</h1>\n<p><a href=\"https://nickogram.netlify.com/\">https://nickogram.netlify.com/</a></p>\n<h1>resources</h1>\n<ul>\n<li><a href=\"https://github.com/tachyons-css/tachyons-sass/tree/master/scss\">https://github.com/tachyons-css/tachyons-sass/tree/master/scss</a></li>\n<li><a href=\"https://github.com/michaeljdeeb/michaeljdeeb-gatsby-blog/tree/master/css\">https://github.com/michaeljdeeb/michaeljdeeb-gatsby-blog/tree/master/css</a></li>\n</ul>",
+            "frontmatter": {
+                "title": "how"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/how/"
+    }
+}

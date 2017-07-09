@@ -1,0 +1,13 @@
+{
+    "data": {
+        "markdownRemark": {
+            "html": "<h2>Building the Walks App, Part 1</h2>\n<p>Yesterday we cloned the project:</p>\n<p><a href=\"https://github.com/nickeblewis/walkapp\">https://github.com/nickeblewis/walkapp</a></p>\n<p>You will have seen something like this…</p>\n<p><img src=\"/assets/walks1.PNG\" alt=\"alt text\" title=\"How our walks app looked in the beginning\"></p>\n<p>Let’s move on…</p>\n<h3>Review the database</h3>\n<p>We are as you know hosting the database with <a href=\"https://www.graph.cool/\">Graph.cool</a> and we have our own database called <strong>Farnborough</strong> which is currently split into the following models:</p>\n<ul>\n<li>Category</li>\n<li>Listing</li>\n<li>Post</li>\n<li>SubCategory</li>\n</ul>\n<p>The walks app as it stands currently is making use of the <strong>Post</strong> model which you can go and see at:</p>\n<p><a href=\"https://console.graph.cool/Farnborough/models/Post/databrowser\">https://console.graph.cool/Farnborough/models/Post/databrowser</a></p>\n<h4>Try out</h4>\n<p>So let’s experiment - run the app in one browser tab and the database model (as above) in another tab. Add a new entry to the app and then refresh the data model tab. You will instantly see your new item added. Try this a few times over and you get the idea…</p>\n<h3>Adding a new page</h3>\n<p>Ok for this section, I am going to walk you through how to create a new page that will allow us to see the categories, read through this carefully, as I will be getting you to add one of the other pages later.</p>\n<h4>Create a branch</h4>\n<p>I created a new branch for this piece of work, it is a good habit to get into plus it means we can review code changes before we merge them into what is known as the <strong>Master</strong> branch. It also means work can be isolated without breaking anything else already in place.</p>\n<div class=\"gatsby-highlight\">\n      <pre class=\"language-bash\"><code><span class=\"token function\">git</span> checkout -b categorypage\n</code></pre>\n      </div>\n<p>This then informed me that a new branch has been switched to, so the above command actually does two things for us. It creates the branch named categorypage and then “checks it out” which means it switches to it. We will discuss this in more detail another time, as there are a number of things to be aware of too.</p>\n<h4>Lets create a new route</h4>",
+            "frontmatter": {
+                "title": "Building the Walks App, Part 1"
+            }
+        }
+    },
+    "pathContext": {
+        "slug": "/workshop/walkapp/"
+    }
+}
