@@ -1,0 +1,467 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "component": "/Users/nicklewis/proj/headforcode-gatsby/.cache/dev-404-page.js",
+      "path": "/dev-404-page/",
+      "componentChunkName": "page-component---cache-dev-404-page-js",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a5741849cdfa448f1a16722e4583fff7",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin component-page-creator",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3e607eed33a44662671249d02a4aa28b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin internal-data-bridge",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d910bd95f8540944cdc64ef79f8708cd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin dev-404-page",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4e4a35fc8df92de8fda3f344acfc81c6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin prod-404",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "f210645053a18e97abb0bec162179f16",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin query-runner",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cddf0d0a5a7dde5228ba03e11be543b3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "1.0.1",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": {
+          "name": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.24.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "12e2da1a7b113ba1766ba1bf3838fb0d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/nicklewis/proj/headforcode-gatsby",
+      "name": "default-site-plugin",
+      "version": "a5ac927b9761317ccc3a891b4db6cfcc",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "pluginFilepath": "/Users/nicklewis/proj/headforcode-gatsby",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Nick Lewis <nickeblewis@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "1.0.1"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.15.0"
+          },
+          {
+            "name": "typography",
+            "version": "^0.15.8"
+          },
+          {
+            "name": "typography-breakpoint-constants",
+            "version": "^0.14.0"
+          },
+          {
+            "name": "typography-plugin-code",
+            "version": "^0.15.9"
+          },
+          {
+            "name": "apollo-client",
+            "version": "^0.8.7"
+          },
+          {
+            "name": "cuid",
+            "version": "^1.3.8"
+          },
+          {
+            "name": "graphql-tag",
+            "version": "^1.2.4"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.2"
+          },
+          {
+            "name": "moment",
+            "version": "^2.18.1"
+          },
+          {
+            "name": "object-assign",
+            "version": "^4.1.1"
+          },
+          {
+            "name": "react-addons-shallow-compare",
+            "version": "^15.5.2"
+          },
+          {
+            "name": "react-dates",
+            "version": "^4.1.0"
+          },
+          {
+            "name": "react-disqus",
+            "version": "^1.0.2"
+          },
+          {
+            "name": "react-disqus-thread",
+            "version": "^0.4.0"
+          },
+          {
+            "name": "react-ga",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.0.3"
+          },
+          {
+            "name": "react-responsive-grid",
+            "version": "^0.3.3"
+          },
+          {
+            "name": "safe-access",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.2.3"
+          },
+          {
+            "name": "react-apollo",
+            "version": "^0.11.2"
+          },
+          {
+            "name": "react-dom",
+            "version": "^15.4.2"
+          },
+          {
+            "name": "react-dropzone",
+            "version": "^3.11.0"
+          },
+          {
+            "name": "react-textarea-autosize",
+            "version": "^4.0.5"
+          },
+          {
+            "name": "sillyname",
+            "version": "^0.1.0"
+          },
+          {
+            "name": "subscriptions-transport-ws",
+            "version": "0.5.4"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "gh-pages",
+            "version": "^0.12.0"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "id": "Plugin default-site-plugin",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d5dc8fe13794af857db49b4692673b7a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "HeadForCode"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "buildTime": "2017-07-08T17:28:42.228Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "d216513f392bdcf11b83dea4a9018acb",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "path": "/contact/",
+      "component": "/Users/nicklewis/proj/headforcode-gatsby/src/pages/contact.js",
+      "componentChunkName": "page-component---src-pages-contact-js",
+      "jsonName": "contact.json",
+      "internalComponentName": "ComponentContact",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "id": "SitePage /contact/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7cf02e2eecbf8aa0ecaf1d823da7368c",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "path": "/",
+      "component": "/Users/nicklewis/proj/headforcode-gatsby/src/pages/index.js",
+      "componentChunkName": "page-component---src-pages-index-js",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d2de6f023f49878431c6a3fa2617bd16",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "path": "/page-2/",
+      "component": "/Users/nicklewis/proj/headforcode-gatsby/src/pages/page-2.js",
+      "componentChunkName": "page-component---src-pages-page-2-js",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "31eba9fd461681ef58b7aa3b60520d25",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "path": "/blog/",
+      "component": "/Users/nicklewis/proj/headforcode-gatsby/src/pages/blog/index.js",
+      "componentChunkName": "page-component---src-pages-blog-index-js",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "51ac859b5c9c33e99f1b605671e2a14d",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "1fbd34b95d8adff3729424152b36f55b"
+  },
+  "pageDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}

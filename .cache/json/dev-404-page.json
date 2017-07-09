@@ -1,0 +1,30 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 4,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/contact/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/page-2/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/blog/"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}

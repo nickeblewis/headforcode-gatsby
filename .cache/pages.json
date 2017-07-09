@@ -1,0 +1,27 @@
+[
+    {
+        "componentChunkName": "page-component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-contact-js",
+        "jsonName": "contact.json",
+        "path": "/contact/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-page-2-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "page-component---src-pages-blog-index-js",
+        "jsonName": "blog.json",
+        "path": "/blog/"
+    }
+]
