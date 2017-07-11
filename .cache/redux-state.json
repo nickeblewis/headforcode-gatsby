@@ -981,12 +981,12 @@
       },
       "port": "8000",
       "host": "localhost",
-      "buildTime": "2017-07-09T19:12:56.376Z",
+      "buildTime": "2017-07-10T21:55:40.764Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c27c09c490073d23badb92b2c1a2cdec",
+        "contentDigest": "ac3360dfb2c549ca027684f454719649",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
