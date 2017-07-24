@@ -22,18 +22,18 @@ export default class Template extends React.Component {
           ]}
         />
          <nav className="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
-          <Link href="/" className="flex-none">
+          <Link to="/" className="flex-none">
             <img src={require('./logo.png')} alt="Farnborough Guide logo" className="br0 db mb0 w-100"/>
           </Link>
           <ul className="flex b grey-3">
             <li>
-              <Link href="/" className="pa3 no-underline db">Home</Link>
+              <Link to="/" className="pa3 no-underline db">Home</Link>
             </li>
             {/*<li>
-              <Link href="/about/" className="pa3 no-underline db">About Us</Link>
+              <Link to="/about/" className="pa3 no-underline db">About Us</Link>
             </li>*/}
             <li className="current">
-              <Link href="/contact/" className="pa3 no-underline db">Contact</Link>
+              <Link to="/contact/" className="pa3 no-underline db">Contact</Link>
             </li>
           </ul>
         </nav>
@@ -68,18 +68,18 @@ export default class Template extends React.Component {
             <div>
               <h3 className="f4 b lh-title mb1 primary">HeadForCode</h3>
               <ul className="mb3">
-                <li><Link href="/" className="link">Home</Link></li>
-                {/*<li><Link href="/products" className="link">Our Services</Link></li>*/}
-                {/*<li><Link href="/values" className="link">About</Link></li>*/}
-                <li><Link href="/blog/" className="link">Blog</Link></li>
-                <li><Link href="/contact/" className="link">Contact</Link></li>
+                <li><Link to="/" className="link">Home</Link></li>
+                {/*<li><Link to="/products" className="link">Our Services</Link></li>*/}
+                {/*<li><Link to="/values" className="link">About</Link></li>*/}
+                <li><Link to="/blog/" className="link">Blog</Link></li>
+                <li><Link to="/contact/" className="link">Contact</Link></li>
               </ul>
             </div>
 
             <div>
               <h3 className="f4 b lh-title mb1 primary">Our other sites</h3>
               <ul className="mb3">
-                <li><Link href="http://www.nicklewis.net" className="link">Nick Lewis Blog</Link></li>
+                <li><Link to="http://www.nicklewis.net" className="link">Nick Lewis Blog</Link></li>
               </ul>
             </div>
 
@@ -87,7 +87,7 @@ export default class Template extends React.Component {
               <h3 className="f4 b lh-title mb2 primary">Social media</h3>
               <ul className="mhn2">
                 <li className="dib ph2 raise">
-                  <Link href="http://facebook.com/headforcode" className="link bg-white black db relative br-100 pa2">
+                  <Link to="http://facebook.com/headforcode" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
                       <use href="#Facebook"></use>
                     </svg>
@@ -95,7 +95,7 @@ export default class Template extends React.Component {
                 </li>
 
                 <li className="dib ph2 raise">
-                  <Link href="http://twitter.com/headforcode" className="link bg-white black db relative br-100 pa2">
+                  <Link to="http://twitter.com/headforcode" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
                       <use href="#twitter"></use>
                     </svg>
@@ -103,7 +103,7 @@ export default class Template extends React.Component {
                 </li>
 
                 <li className="dib ph2 raise">
-                  <Link href="https://vimeo.com/nicklewis" className="link bg-white black db relative br-100 pa2">
+                  <Link to="https://vimeo.com/nicklewis" className="link bg-white black db relative br-100 pa2">
                     <svg width="16px" height="16px" className="db">
                       <use href="#vimeo"></use>
                     </svg>
