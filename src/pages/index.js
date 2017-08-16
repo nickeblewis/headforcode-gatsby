@@ -30,13 +30,14 @@ class Index extends React.Component {
           // <div>
           <div key={post.node.frontmatter.path} className="fl-m fl-l w-25-m w-25-l">
                 <div className="pa4 pa4-m">
-                     {/* <a style={{boxShadow: 'none'}} href={post.frontmatter.node.path}>
-                    <img src="https://placehold.it/200" alt="carbon-trust.jpg" />
-                </a>  */}
+                     <a style={{boxShadow: 'none'}} href={post.node.frontmatter.path}>
+                    {/* <img src={post.node.frontmatter.thumbnail} alt={post.node.frontmatter.title} /> */}
+                    <img src="http://placehold.it/200" alt={post.node.frontmatter.title} />
+                </a> 
              
                 </div>
                 <div className="tc">
-              <a href="/blog/" className="btn raise">Read more</a>
+              <a href={post.node.frontmatter.path} className="btn raise">Read more</a>
             </div>
             </div>
             
