@@ -6,7 +6,7 @@
   "repository": "https://www.github.com/nickeblewis/headforcode-gatsby",
   "dependencies": {
     "codemirror": "^5.27.4",
-    "gatsby": "^1.8.10",
+    "gatsby": "^1.8.11",
     "gatsby-link": "^1.6.7",
     "file-loader": "^0.11.2",
     "gatsby-plugin-catch-links": "^1.0.2",

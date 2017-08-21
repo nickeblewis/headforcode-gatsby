@@ -1,32 +1,52 @@
-module.exports = {  
+module.exports = {
   siteMetadata: {
-    title: `HeadForCode`,
-    author: `Nick Lewis`
+    title: "HeadForCode",
+    author: "Nick Lewis",
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-glamor`,
     {
-      resolve: 'gatsby-source-filesystem',
+      resolve: `gatsby-source-filesystem`,
       options: {
-        name: 'pages',
-        path: `${__dirname}/src/pages/`,
+        path: `${__dirname}/src/pages`,
+        name: "pages",
       },
     },
     {
-      resolve: 'gatsby-transformer-remark',
+      resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [          
-          'gatsby-remark-autolink-headers',
+        plugins: [
           // {
-          //   resolve: 'gatsby-remark-responsive-iframe',
+          //   resolve: `gatsby-remark-images`,
+          //   options: {
+          //     maxWidth: 590,
+          //   },
           // },
-          // 'gatsby-remark-prismjs',
-          // `${__dirname}/syntax-highlighting/index.js`,
-          'gatsby-remark-copy-linked-files',
-          // 'gatsby-remark-smartypants',
-          'gatsby-plugin-catch-links',
+          // {
+          //   resolve: `gatsby-remark-responsive-iframe`,
+          //   options: {
+          //     wrapperStyle: `margin-bottom: 1.0725rem`,
+          //   },
+          // },
+          "gatsby-remark-prismjs",
+          "gatsby-remark-copy-linked-files",
+          "gatsby-remark-smartypants",
         ],
+      },
+    },
+    // `gatsby-transformer-sharp`,
+    // `gatsby-plugin-sharp`,
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     //trackingId: `ADD YOUR TRACKING ID HERE`,
+    //   },
+    // },
+    // `gatsby-plugin-offline`,
+    `gatsby-plugin-react-helmet`,
+    {
+      resolve: "gatsby-plugin-typography",
+      options: {
+        pathToConfigModule: "src/utils/typography",
       },
     },
   ],
