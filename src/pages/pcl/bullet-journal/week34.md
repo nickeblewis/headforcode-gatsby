@@ -8,6 +8,8 @@ author: nickeblewis
 # VWO
 
 - Create a test react application so that I have a HTML focument that loads JS run-time
+  - Created /c/proj/test-vwo with `create-react-app test-vwo`
+  - changed into directory and run `yarn start`
 - Will need to deploy to a server on Netlify
 - Add my own GTM to it
 - Add VWO to that
