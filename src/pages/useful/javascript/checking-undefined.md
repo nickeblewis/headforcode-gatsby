@@ -1,5 +1,6 @@
 ---
 title: Checking undefined
+path: "undefined"
 ---
 
 How to check if a variable is undefined:

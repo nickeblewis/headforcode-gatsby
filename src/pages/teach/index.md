@@ -3,6 +3,7 @@ title: 2017 Learning
 menuText: Docs
 layout: Doc
 gitLink: \docs\README.md
+path: "undefined"
 ---
 
 # Learn JAMStack

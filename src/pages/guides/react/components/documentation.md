@@ -1,6 +1,7 @@
 ---
 title: Documenting your components
 layout: Doc
+path: "undefined"
 ---
 
 # Automating documentation for your React components

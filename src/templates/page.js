@@ -1,14 +1,30 @@
 import React from "react"
 import '../css/markdown-styles.css'
 // import ReactDisqus from 'react-disqus'
+import Helmet from "react-helmet"
+import get from 'lodash/get'
+import Link from 'gatsby-link'
+import { rhythm, scale } from '../utils/typography'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const siteTitle = get(this.props, 'data.site.siteMetadata.title')
 
     return (
       <div className="markdown mw6 center ph3 pv4">
-        <h2 className="f3 b lh-title mb1 primary">{post.frontmatter.title}</h2>
+        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
+        <h1 className="f3 b lh-title mb1 primary">{post.frontmatter.title}</h1>
+        <p
+          style={{
+            ...scale(-1 / 5),
+            display: 'block',
+            marginBottom: rhythm(1),
+            marginTop: rhythm(-1),
+          }}
+        >
+          {post.frontmatter.date}
+        </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         {/* <ReactDisqus shortname="headforcode-1" /> */}
       </div>
@@ -19,8 +35,15 @@ class BlogPostTemplate extends React.Component {
 export default BlogPostTemplate
 
 export const pageQuery = graphql`
-query BlogPostBySlug($slug: String!) {
-  markdownRemark(fields: { slug: { eq: $slug }}) {
+query BlogPostByPath($path: String!) {
+  site {
+    siteMetadata {
+      title
+      author
+    }
+  }
+  markdownRemark(frontmatter: { path: { eq: $path }}) {
+    id
     html
     frontmatter {
       title

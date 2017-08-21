@@ -1,5 +1,6 @@
 ---
 title: API MicroServices
+path: "undefined"
 author: Nick Lewis
 date: 2017-06-29
 featured: true

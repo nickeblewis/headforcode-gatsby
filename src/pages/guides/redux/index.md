@@ -1,6 +1,7 @@
 ---
 title: Redux boilerplate
 layout: Default
+path: "undefined"
 ---
 
 ## Essential steps

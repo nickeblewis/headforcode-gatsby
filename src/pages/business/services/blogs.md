@@ -1,6 +1,7 @@
 ---
 title: Blogs
 layout: Default
+path: "undefined"
 ---
 
 TODO

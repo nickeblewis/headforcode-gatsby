@@ -3,6 +3,7 @@ title: Integrating Disqus
 date: 2017-06-28
 author: Nick Lewis
 featured: true
+path: "undefined"
 description: How to implement Disqus commenting in your own site
 ---
 

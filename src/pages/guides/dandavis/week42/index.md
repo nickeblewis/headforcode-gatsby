@@ -2,6 +2,7 @@
 title: JS - Introduction
 menuText: Docs
 layout: Doc
+path: "undefined"
 gitLink: \docs\README.md
 ---
 

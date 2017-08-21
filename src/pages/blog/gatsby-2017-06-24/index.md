@@ -2,6 +2,7 @@
 title: The Great Gatsby
 date: 2017-06-24
 type: post
+path: "undefined"
 description: We have moved this site to GatsbyJS and wow what a fabulous developer experience!
 ---
 

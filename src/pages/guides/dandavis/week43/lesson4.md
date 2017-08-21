@@ -1,6 +1,7 @@
 ---
 title: Lesson 4 - Merging Pull Requests
 layout: Doc
+path: "undefined"
 ---
 
 # Lesson 4 - Merging Pull Requests

@@ -1,6 +1,7 @@
 ---
 title: Week 6
 layout: Doc
+path: "undefined"
 ---
 
 # This week's timeline and lessons

@@ -1,6 +1,7 @@
 ---
 title: Fetch
 layout: Default
+path: "undefined"
 ---
 
 Discovered whilst struggling with Fetch on the PAP project

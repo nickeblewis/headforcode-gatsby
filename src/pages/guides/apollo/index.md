@@ -1,6 +1,7 @@
 ---
 title: Apollo
 layout: Default
+path: "undefined"
 ---
 
 http://www.apollostack.com/

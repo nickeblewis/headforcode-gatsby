@@ -1,6 +1,7 @@
 ---
 layout: Default
 title: Our Projects
+path: "undefined"
 ---
 
 # Our Projects

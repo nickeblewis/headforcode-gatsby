@@ -3,6 +3,7 @@ title: Location
 layout: Doc
 where: "60 East Street, Epsom, Surrey"
 credit: https://www.npmjs.com/package/react-google-map
+path: "undefined"
 ---
 
 This demonstrates something...

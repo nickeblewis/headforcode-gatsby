@@ -3,6 +3,7 @@ title: The Hub
 menuText: Docs
 layout: Doc
 gitLink: \docs\README.md
+path: "undefined"
 ---
 
 # Welcome...

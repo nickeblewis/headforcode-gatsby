@@ -1,5 +1,6 @@
 ---
 title: Dans Lab
+path: "undefined"
 layout: Default
 ---
 

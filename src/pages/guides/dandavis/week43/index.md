@@ -2,6 +2,7 @@
 title: Week 43
 menuText: Docs
 layout: Doc
+path: "undefined"
 gitLink: \courses\dandavis\week43\index.md
 ---
 

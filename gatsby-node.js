@@ -1,25 +1,6 @@
 // In your gatsby-node.js
 const path = require('path')
-
-exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
-  const { createNodeField } = boundActionCreators
-  let slug
-  if (node.internal.type === `MarkdownRemark`) {
-    const fileNode = getNode(node.parent)
-    const parsedFilePath = path.parse(fileNode.relativePath)
-    if (parsedFilePath.name !== `index` && parsedFilePath.dir !== ``) {
-      slug = `/${parsedFilePath.dir}/${parsedFilePath.name}/`
-    } else if (parsedFilePath.dir === ``) {
-      slug = `/${parsedFilePath.name}/`
-    } else {
-      slug = `/${parsedFilePath.dir}/`
-    }
-
-    // Add slug as a field on the node.
-    createNodeField({ node, name: `slug`, value: slug })
-  }
-}
-
+  
 exports.createPages = ({ graphql, boundActionCreators }) => {
   const { createPage } = boundActionCreators
 
@@ -31,11 +12,11 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
       graphql(
         `
         {
-          allMarkdownRemark {
+          allMarkdownRemark(limit: 1000) {
             edges {
               node {
-                fields {
-                  slug
+                frontmatter {
+                  path
                 }
               }
             }
@@ -51,15 +32,15 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
         // Create blog posts pages.
         result.data.allMarkdownRemark.edges.forEach(edge => {
           createPage({
-            path: edge.node.fields.slug, // required
+            path: edge.node.frontmatter.path,
             component: blogPost,
             context: {
-              slug: edge.node.fields.slug,
+              path: edge.node.frontmatter.path,
             },
           })
         })
 
-        return
+        // return
       })
     )
   })

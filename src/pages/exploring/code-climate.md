@@ -1,5 +1,6 @@
 ---
 title: Code Climate
+path: "undefined"
 status: todo
 reference: https://docs.codeclimate.com/
 description: Get automated code review for test coverage, complexity, duplication, security, style, and more, and merge with confidence.

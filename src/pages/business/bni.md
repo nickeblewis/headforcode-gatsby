@@ -1,6 +1,7 @@
 ---
 title: BNI Farnborough Jets
 layout: Default
+path: "undefined"
 ---
 
 # HeadForCode

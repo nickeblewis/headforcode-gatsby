@@ -1,5 +1,6 @@
 ---
 title: Our Vision
+path: "undefined"
 layout: Default
 ---
 

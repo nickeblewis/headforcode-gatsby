@@ -2,6 +2,7 @@
 title: 24th February 2017
 layout: Doc
 date: 24-02-2017
+path: "undefined"
 ---
 
 Working on getting my head around EPICC again today!

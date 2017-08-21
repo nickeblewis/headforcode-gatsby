@@ -1,5 +1,6 @@
 ---
 title: ES6 Features
+path: "undefined"
 ---
 
 ES6 is the latest version of Javascript as we commonly know it or ECMAscript as it is officially known. I have collated a list of the very best features of ES6 in order to help us gain a better grasp of what it enables us to do.

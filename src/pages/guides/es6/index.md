@@ -1,6 +1,7 @@
 ---
 title: Quick Reference
 layout: Default
+path: "undefined"
 ---
 
 ## Spread operator

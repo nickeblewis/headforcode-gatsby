@@ -1,6 +1,7 @@
 ---
 title: .NET Core
 layout: Default
+path: "undefined"
 ---
 
 Hi Dan, I am just preparing some things for us to begin looking at, as an exercise for you to begin learning some real code and at the same time for me to re-learn some skills I've ot worked with for a year or so.... shall be fun

@@ -1,6 +1,7 @@
 ---
 title: ReactJS - Create React App
 layout: Doc
+path: "undefined"
 ---
 
 ## Creating a simple single page application

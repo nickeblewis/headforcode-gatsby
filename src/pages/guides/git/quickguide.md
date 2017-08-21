@@ -1,6 +1,7 @@
 ---
 title: A Quick Guide to Git
 layout: Doc
+path: "undefined"
 ---
 
 # A Quick Guide to Git

@@ -14,34 +14,25 @@ class Index extends React.Component {
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
     posts.forEach(post => {
       if (post.node.path !== '/404/') {
-        console.log(post)
         const title = get(post, 'node.frontmatter.title') || post.node.frontmatter.path
         pageLinks.push(
-          // <li
-          //   key={post.node.frontmatter.path}
-          //   style={{
-          //     marginBottom: rhythm(1 / 4),
-          //   }}
-          // >
-          //   <a href={post.node.frontmatter.path}>
-          //     {post.node.frontmatter.title}
-          //   </a>
-          // </li>
-          // <div>
-          <div key={post.node.frontmatter.path} className="fl-m fl-l w-25-m w-25-l">
-                <div className="pa4 pa4-m">
-                     <a style={{boxShadow: 'none'}} href={post.node.frontmatter.path}>
-                    {/* <img src={post.node.frontmatter.thumbnail} alt={post.node.frontmatter.title} /> */}
-                    <img src="http://placehold.it/200" alt={post.node.frontmatter.title} />
-                </a> 
-             
-                </div>
-                <div className="tc">
-              <a href={post.node.frontmatter.path} className="btn raise">Read more</a>
-            </div>
-            </div>
-            
-            
+          // <div key={post.node.frontmatter.path} className="fl-m fl-l w-25-m w-25-l">
+          //       <div className="pa4 pa4-m">
+          //         <a style={{boxShadow: 'none'}} href={post.node.frontmatter.path}>
+          //           <img src="http://placehold.it/200" alt={post.node.frontmatter.title} />
+          //         </a>              
+          //       </div>
+          //       <div className="tc">
+          //     <a href={post.node.frontmatter.path} className="btn raise">Read more</a>
+          //   </div>
+          // </div>                        
+          <div className="ph1-ns w-50-ns flex">
+            <a className="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100" href={post.node.frontmatter.path}>
+              <h2 className="f3 b lh-title mb1 primary">{post.node.frontmatter.title}</h2>
+              <p className="mb0">{post.node.frontmatter.description}</p>
+              <p className="link b dib black mb0">Read more →</p>
+            </a>
+          </div>
         )
       }
     })
@@ -96,18 +87,14 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(filter: {frontmatter: {layout: {eq: "Post"}}} limit: 5, sort: {fields: [frontmatter___date, frontmatter___path], order: DESC}) {
+    allMarkdownRemark(filter: {frontmatter: {layout: {eq: "Post"}}} limit: 5, sort: {fields: [frontmatter___date], order: DESC}) {
       edges {
         node {
           frontmatter {
             path
-            
-          }
-          frontmatter {
             title
-          }
-           frontmatter {
             thumbnail
+            description
           }
         }
       }

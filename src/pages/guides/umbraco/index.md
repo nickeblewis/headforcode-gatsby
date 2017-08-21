@@ -1,5 +1,6 @@
 ---
 title: Umbraco introduction
+path: "undefined"
 ---
 
 ## The basics

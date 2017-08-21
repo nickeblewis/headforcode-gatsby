@@ -1,5 +1,6 @@
 ---
 title: Umbraco Content
+path: "undefined"
 ---
 
 ## Adding Content

@@ -1,6 +1,7 @@
 ---
 title: NVQ
 layout: Doc
+path: "undefined"
 ---
 
 # FYI: Dan & Vinay

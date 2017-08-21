@@ -1,6 +1,7 @@
 ---
 title: Exploring Graphcool 
 repo: https://github.com/Sly777/ran
+path: "undefined"
 ---
 
 ## Intro

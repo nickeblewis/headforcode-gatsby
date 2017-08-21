@@ -1,6 +1,7 @@
 ---
 title: Useful sites
 layout: Default
+path: "undefined"
 ---
 
 # Useful sites

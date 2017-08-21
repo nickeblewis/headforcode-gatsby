@@ -1,8 +1,8 @@
 ---
-path: content/posts/follow-us.md
+path: "/blog/follow-us"
 title: Follow our development
 layout: Post
-date: 2016-12-31
+date: "2015-05-01T22:12:03.284Z"
 author: nickeblewis
 thumbnail: 'https://s3-eu-west-1.amazonaws.com/assets.site.headforcode.com/icons/js.png'
 ---

@@ -1,6 +1,7 @@
 ---
 title: Making changes
 layout: Default
+path: "undefined"
 gitLink: /content/courses/dandavis/week44/index.md
 ---
 

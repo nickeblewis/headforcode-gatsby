@@ -1,6 +1,7 @@
 ---
 title: Hello World
 layout: Doc
+path: "undefined"
 ---
 
 # Say Hello World!

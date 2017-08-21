@@ -2,6 +2,7 @@
 title: The Guide
 menuText: Docs
 layout: GuideLandingPage
+path: "undefined"
 gitLink: \docs\README.md
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Lesson 3 - Creating a "Pull Request"
 layout: Doc
+path: "undefined"
 ---
 
 # Lesson 3 - Creating a "Pull Request"

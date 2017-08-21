@@ -1,6 +1,7 @@
 ---
 title: Business Plan
 layout: Default
+path: "undefined"
 ---
 
 # The plan for 2017

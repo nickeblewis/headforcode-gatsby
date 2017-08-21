@@ -1,6 +1,7 @@
 ---
 title: Lesson 1 - Cloning a project
 layout: Doc
+path: "undefined"
 ---
 
 # Lesson 1 - Cloning a project

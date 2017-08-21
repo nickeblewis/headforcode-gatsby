@@ -2,6 +2,7 @@
 title: Github, create your own free account
 author: nicklewis
 layout: Doc
+path: "undefined"
 ---
 
 # Join Github

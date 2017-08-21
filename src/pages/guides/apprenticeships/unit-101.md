@@ -1,6 +1,7 @@
 ---
 title: Health & Safety
 layout: Doc
+path: "undefined"
 ---
 
 ## Unit summary

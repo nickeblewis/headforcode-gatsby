@@ -1,6 +1,7 @@
 ---
 title: Install Node and NPM
 layout: Doc
+path: "undefined"
 ---
 
 # Installing Node and NPM

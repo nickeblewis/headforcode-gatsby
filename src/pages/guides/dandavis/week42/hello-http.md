@@ -2,6 +2,7 @@
 title: Hello HTTP
 layout: Doc
 menuText: Test
+path: "undefined"
 ---
 
 # How to build your first NodeJS Server

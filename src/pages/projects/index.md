@@ -1,5 +1,6 @@
 ---
 title: Projects
+path: "undefined"
 ---
 
 ## Active 

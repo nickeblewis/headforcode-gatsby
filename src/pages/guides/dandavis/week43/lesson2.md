@@ -1,6 +1,7 @@
 ---
 title: Lesson 2 - Creating a branch
 layout: Doc
+path: "undefined"
 ---
 
 # Lesson 2 - Creating a branch

@@ -1,5 +1,6 @@
 ---
 title: Ideas for 2017
+path: "undefined"
 layout: Default
 ---
 

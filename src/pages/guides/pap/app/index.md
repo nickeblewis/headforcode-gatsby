@@ -3,6 +3,7 @@ title: The Ref Hub
 menuText: Docs
 layout: Doc
 gitLink: \docs\README.md
+path: "undefined"
 ---
 
 # Overview of the project and architectural choices

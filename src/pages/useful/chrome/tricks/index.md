@@ -3,6 +3,7 @@ title: Useful Chrome tricks
 date: 2017-06-28
 author: Nick Lewis
 featured: true
+path: "undefined"
 description: Get to know Chrome better, there are a lot of powerful features under the hood
 ---
 

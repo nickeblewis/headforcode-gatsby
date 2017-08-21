@@ -1,7 +1,7 @@
 ---
-title: how
-path: /how/
-layout: Post
+title: How
+path: "/how/"
+slug: how
 thumbnail: 'https://s3-eu-west-1.amazonaws.com/assets.site.headforcode.com/icons/js.png'
 ---
 

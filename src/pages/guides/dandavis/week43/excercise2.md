@@ -1,6 +1,7 @@
 ---
 title: Excercise 2 - Removing unwanted stuff
 layout: Doc
+path: "undefined"
 ---
 
 # Excercise 2 - Removing unwanted stuff

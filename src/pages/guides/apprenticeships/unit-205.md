@@ -1,6 +1,7 @@
 ---
 title: Data Modelling
 layout: Doc
+path: "undefined"
 ---
 
 # 1. Know the basic concepts of logical data modelling (23rd December)

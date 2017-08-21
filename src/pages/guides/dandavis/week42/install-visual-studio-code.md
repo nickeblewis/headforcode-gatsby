@@ -1,6 +1,7 @@
 ---
 title: Installing Visual Studio Code (VSC)
 layout: Doc
+path: "undefined"
 ---
 
 # Install Visual Studio Code

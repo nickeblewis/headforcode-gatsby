@@ -3,6 +3,7 @@ title: JavaScript - Functions
 description: Functions are a key part of JS but they can be complex too
 layout: Doc
 date: 28-02-2017
+path: "undefined"
 ---
 
 JavaScript is an interesting place right now due to the changes taking place within the 

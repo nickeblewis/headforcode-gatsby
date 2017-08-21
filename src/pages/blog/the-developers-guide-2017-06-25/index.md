@@ -2,6 +2,7 @@
 title: The developers guide
 date: 2017-06-24
 type: post
+path: "guide"
 description: I work with a lot of tech and with the fast paced industry we work in time to write things down!
 ---
 

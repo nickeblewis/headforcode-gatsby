@@ -1,6 +1,7 @@
 ---
 title: Pricing
 layout: Default
+path: "undefined"
 ---
 
 # Websites/Apps

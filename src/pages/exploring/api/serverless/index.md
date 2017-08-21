@@ -1,5 +1,6 @@
 ---
 title: Exploring Serverless
+path: "undefined"
 ---
 
 ## What is Serverless?

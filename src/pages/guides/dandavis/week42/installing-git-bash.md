@@ -1,6 +1,7 @@
 ---
 title: Installing Git Bash
 layout: Doc
+path: "undefined"
 ---
 
 # Installing Git Bash

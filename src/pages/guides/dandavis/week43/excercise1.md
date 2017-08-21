@@ -1,6 +1,7 @@
 ---
 title: Excercise 1 - Let's do something...
 layout: Doc
+path: "undefined"
 gitLink: /content/courses/dandavis/week43/excercise1.md
 ---
 

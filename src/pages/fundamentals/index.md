@@ -1,4 +1,4 @@
 ---
 title: Fundamentals of Javascript
-path: /fundamentals/
+path: "/fundamentals/"
 ---

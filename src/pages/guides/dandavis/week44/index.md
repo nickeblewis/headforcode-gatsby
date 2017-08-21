@@ -2,6 +2,7 @@
 title: Week 44
 layout: Doc
 gitLink: /content/courses/dandavis/week44/index.md
+path: "undefined"
 ---
 
 ## What's the plan for this week?

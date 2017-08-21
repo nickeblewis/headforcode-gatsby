@@ -1,7 +1,7 @@
-module.exports = {
-  pathPrefix: '/',
+module.exports = {  
   siteMetadata: {
     title: `HeadForCode`,
+    author: `Nick Lewis`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

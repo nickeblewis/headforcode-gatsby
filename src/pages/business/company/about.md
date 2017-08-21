@@ -1,5 +1,6 @@
 ---
 title: About HeadForCode
+path: "undefined"
 layout: Default
 ---
 

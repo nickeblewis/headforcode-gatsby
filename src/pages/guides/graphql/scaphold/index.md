@@ -1,6 +1,7 @@
 ---
 title: Scaphold
 layout: Doc
+path: "undefined"
 ---
 
 # TODO

@@ -1,6 +1,7 @@
 ---
 title: Exploring LoopBack
 date: 2017-06-30
+path: "undefined"
 description: LoopBack is a NodeJS framework tool for building RESTful APIs that we are currently assessing for future project work
 ---
 
