@@ -17,15 +17,15 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [          
-          'gatsby-remark-autolink-headers',
+          // 'gatsby-remark-autolink-headers',
           // {
           //   resolve: 'gatsby-remark-responsive-iframe',
           // },
-          // 'gatsby-remark-prismjs',
+          'gatsby-remark-prismjs',
           // `${__dirname}/syntax-highlighting/index.js`,
           'gatsby-remark-copy-linked-files',
-          // 'gatsby-remark-smartypants',
-          'gatsby-plugin-catch-links',
+          'gatsby-remark-smartypants',
+          // 'gatsby-plugin-catch-links',
         ],
       },
     },
