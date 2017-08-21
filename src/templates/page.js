@@ -1,5 +1,6 @@
 import React from "react"
-// import '../css/markdown-styles.css'
+import '../css/markdown-styles.css'
+
 // import ReactDisqus from 'react-disqus'
 import Helmet from "react-helmet"
 import get from 'lodash/get'
