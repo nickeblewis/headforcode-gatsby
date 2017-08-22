@@ -33,6 +33,11 @@ author: nickeblewis
 - Later on I will have some recomendations for how the story for this should be laid out and some idea of how big a piece of work it would be to add to EPICC
 - Also more importantly will VWO actually work with EPICC? I have my doubts...
 
+## VWO
+
+- Created the test app and loading up GTM into it, that works so far
+- Now to create (or find my current) GTM account for which I can configure VWO for
+
 ## Planning and retrospective
 
 - TODO
