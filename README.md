@@ -55,3 +55,19 @@ https://github.com/gatsbyjs/gatsby/releases/tag/v0.12.34
 - Wiki
 - Gists
 - Guides
+
+## Homepage re-structure
+
+### Currently
+
+- Contracting
+- Software House - not sure this is a good heading
+- JAMStack! - Good
+- No Servers? - Pointless, want this to be customer friendly
+
+### How this could be improved
+
+Ask the following questions:
+
+- Who are the audience?
+- What tone should we adopt?
