@@ -55,3 +55,32 @@ https://github.com/gatsbyjs/gatsby/releases/tag/v0.12.34
 - Wiki
 - Gists
 - Guides
+
+## Branch: week34
+
+This branch is dedicated to my Markdown based bullet journal and each week I shall merge this into Master, delete the branch and create week35 etc etc
+
+## Branch: homepage1
+
+Rethinking the content for the homepage version 1 and build a 2, 3, 4 etc and use Netlify's branch feature to compare them before deciding which to merge to master as the official update.
+
+## Branch: follow-our-development
+
+Review this blog article and re-write it if needs be
+
+## Branch: adventure-begins
+
+Review this blog article and re-write it if needs be
+
+## Future branches for blog articles
+
+Think em up as I go!
+
+## Some ideas
+
+- Write about APIs and explore them, some ideas to kick things off
+  - Instagram
+  - Trello
+  - Twitter
+  - Google
+  - We are focussing as a business on what we can build for people around the JAM concept
