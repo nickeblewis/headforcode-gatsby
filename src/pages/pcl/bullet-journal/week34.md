@@ -5,7 +5,8 @@ date: "2017-08-21T15:47:00.00Z"
 author: nickeblewis
 ---
 
-# VWO
+# Monday 21st August 
+## VWO
 
 - Create a test react application so that I have a HTML focument that loads JS run-time
   - Created /c/proj/test-vwo with `create-react-app test-vwo`
@@ -19,6 +20,19 @@ author: nickeblewis
 - Add two buttons to the app
 - Experiment with tool that JL uses
 
-# Sign Out
+## Sign Out
 
+- The pop-up is there but more work is needed around this
 - 
+
+# Tuesday 22nd August
+
+## Stand-up
+- Yesterday I started to look into VWO and decided that the best way to experiment with this would be to build a prototype application, so as not to cause any issues with our live GTM implementation.
+- So that's where I shall continue today 
+- Later on I will have some recomendations for how the story for this should be laid out and some idea of how big a piece of work it would be to add to EPICC
+- Also more importantly will VWO actually work with EPICC? I have my doubts...
+
+## Planning and retrospective
+
+- TODO
