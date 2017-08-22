@@ -11,7 +11,7 @@ class IntroBlock extends React.Component {
     <h2 className="f2 b lh-title mb2"></h2>
     <p className="mb4 mw6"></p>
     <div className="flex-ns mhn2-ns mb3">
-      <div className="ph2-ns w-100-ns">
+      <div className="center mw6 pv3">
           {/*<img src={require("./iStock-505642128.jpg")} alt="" className="center db mb3"  />*/}
           <h4 className="f4 b tc lh-title mb2 primary">Introducing the JAMStack</h4>
           <p className="tc">We abandoned Wordpress and Drupal some time ago after we realised it is possible to build for the web using a combination of technologies that aren't reliant on database back-ends or the dreaded security patches. Above all else we can fully embrace the technologies we love to work with, JavasCript, HTML & CSS - pure frontend code.</p>
