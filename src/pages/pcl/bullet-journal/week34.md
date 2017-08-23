@@ -36,3 +36,23 @@ author: nickeblewis
 ## Planning and retrospective
 
 - TODO
+
+# Wednesday 23rd August
+
+## Todo
+
+- Sprint planning
+- Run through Sprint 17 and prep for the planning meeting, quite a lot of UI stuff in there
+  - 16580: Can this be closed? It's done innit?
+  - 16018: There is no Interactive pop-up?
+  - 15987: Bug was fixed on local but observed random behaviour on T environments
+  - 15988: Let's task this up with everything that needs changing
+  - VWO: Has no story
+  - 16360: What is the EPICC letter suite? Is this for email view in browser?
+  - Logging (I think Paul our digital trainee touched on this in the retro)
+  - Logout should this be in Sprint 17 or later??
+
+- James wants an overview of the FE structure
+- Get JL to help me out with configuring the VWO stuff
+- Install the 64-bit VSC later when not in the middle of code
+
