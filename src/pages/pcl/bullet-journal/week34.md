@@ -41,8 +41,7 @@ author: nickeblewis
 
 ## Todo
 
-- Sprint planning
-- Run through Sprint 17 and prep for the planning meeting, quite a lot of UI stuff in there
+- Sprint planning - discuss the below
   - 16580: Can this be closed? It's done innit?
   - 16018: There is no Interactive pop-up?
   - 15987: Bug was fixed on local but observed random behaviour on T environments
@@ -50,7 +49,7 @@ author: nickeblewis
   - VWO: Has no story
   - 16360: What is the EPICC letter suite? Is this for email view in browser?
   - Logging (I think Paul our digital trainee touched on this in the retro)
-  - Logout should this be in Sprint 17 or later??
+  - 15993: Big story around how signing out should work for EPICC / Interactive 
 
 - James wants an overview of the FE structure
 - Get JL to help me out with configuring the VWO stuff
