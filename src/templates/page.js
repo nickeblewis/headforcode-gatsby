@@ -6,6 +6,7 @@ import Helmet from "react-helmet"
 import get from 'lodash/get'
 import Link from 'gatsby-link'
 import { rhythm, scale } from '../utils/typography'
+import ReactDisqusThread from 'react-disqus-thread'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -28,6 +29,9 @@ class BlogPostTemplate extends React.Component {
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         {/* <ReactDisqus shortname="headforcode-1" /> */}
+        <ReactDisqusThread
+            shortname="headforcode-1"
+            title={post.frontmatter.title} />
       </div>
     )
   }
