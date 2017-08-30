@@ -10,11 +10,11 @@ author: nickeblewis
 
 ## 15:44 - taking a look through the board
 
-- 16929 - can I get rid of this quickly? Nope can't get this project to run at the moment
-- Helped James earlier wit a deployment issue he was having
+- ** 16929 - Just done a build with this fix, it worked fine. Merged to RC. This appears to have been released as RELEASE-48. Now auto-assigned to James Larter under the resolved column! **
+- Helped James earlier with a deployment issue he was having
 - Helped Ramana out with timeouts but then realised that this is not something the FE handles rather the back-end services do
 - ** 17013 - The EPICC transaction summary page does get truncated, still trying to work out what to do with this **
-- ** 16931 - Login button can be triggered by enter key depression which is on Dev. Can this be pushed to T1 = Quang? **
+- ** 16931 - Login button can be triggered by enter key depression which is on Dev. Has this been released automatically to T1? **
 - ** 17024 - Doesn't seem to be occurring any longer, can this be put through testing for more feedback? **
 
 ### Note - I keep forgetting to open VS in admin mode 
