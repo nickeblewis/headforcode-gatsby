@@ -18,3 +18,9 @@ We no longer use dedicated servers for any project but rather a range of differe
 - StdLib
 - Serverless
 - AWS (Amazon Web Services)
+- Snipcart
+- Algolia
+- Dropbox
+- Trello
+- Instagram and other social media
+- Headless CMSes such as Contentful, Kentico CLoud etc
