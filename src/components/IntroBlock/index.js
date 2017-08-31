@@ -8,30 +8,23 @@ class IntroBlock extends React.Component {
       return (
     <div className="bg-off-white pv4">
   <div className="ph3 mw7 center">
-    <h2 className="f2 b lh-title mb2"></h2>
-    <p className="mb4 mw6"></p>
     <div className="flex-ns mhn2-ns mb3">
       <div className="center mw6 pv3">
           {/*<img src={require("./iStock-505642128.jpg")} alt="" className="center db mb3"  />*/}
-          <h4 className="f4 b tc lh-title mb2 primary">Introducing the JAMStack</h4>
-          <p className="tc">We abandoned Wordpress and Drupal some time ago after we realised it is possible to build for the web using a combination of technologies that aren't reliant on database back-ends or the dreaded security patches. Above all else we can fully embrace the technologies we love to work with, JavasCript, HTML & CSS - pure frontend code.</p>
+          <h1 className="f4 b tc lh-title mb2 primary">Welcome to a world of code!</h1>
+          <p className="f5 tc">Our aim is to help people with their code, either to build bespoke projects for clients or to teach developers of various levels the skills we know.</p>
         </div>
     </div>
     <div className="flex-ns mhn2-ns mb3">
-      <div className="ph2-ns w-33-ns">
-        {/*<img src={require("./iStock-505642128.jpg")} alt="" className="center db mb3"  />*/}
-        <h4 className="f4 b tc lh-title mb2 primary">JavaScript</h4>
-        <p>We abandoned Wordpress and Drupal some time ago after we realised it is possible to build for the web using a combination of technologies that aren't reliant on database back-ends or the dreaded security patches. Above all else we can fully embrace the technologies we love to work with, JavasCript, HTML & CSS - pure frontend code.</p>
-      </div>
-      <div className="ph2-ns w-33-ns">
+      <div className="ph2-ns w-50-ns">
         {/*<img src={require("./iStock-505021766.jpg")} alt="" className="center db mb3"  />*/}
-        <h4 className="f4 b tc lh-title mb2 primary">APIs</h4>
-        <p>We haven't turned our backs on back-ends at all, we just use them in a different way nowadays. We have a wealth of experience in working with GraphCool, Serverless, StdLib and anything that can be coded with a little bit of NodeJS. Part of the JAMStack approach is that you can pull data from an API in order to generate your static content, deploy that to a CDN and your customers get to experience lightning fast websites.</p>
+        <h4 className="f5 b tc lh-title mb2 primary">Solutions</h4>
+        <p className="f6 normal">We haven't turned our backs on back-ends at all, we just use them in a different way nowadays. We have a wealth of experience in working with GraphCool, Serverless, StdLib and anything that can be coded with a little bit of NodeJS. Part of the JAMStack approach is that you can pull data from an API in order to generate your static content, deploy that to a CDN and your customers get to experience lightning fast websites.</p>
       </div>      
-      <div className="ph2-ns w-33-ns">
+      <div className="ph2-ns w-50-ns">
         {/*<img src={require("./iStock-505021766.jpg")} alt="" className="center db mb3"  />*/}
-        <h4 className="f4 b tc lh-title mb2 primary">Markup</h4>
-        <p>We haven't turned our backs on back-ends at all, we just use them in a different way nowadays. We have a wealth of experience in working with GraphCool, Serverless, StdLib and anything that can be coded with a little bit of NodeJS. Part of the JAMStack approach is that you can pull data from an API in order to generate your static content, deploy that to a CDN and your customers get to experience lightning fast websites.</p>
+        <h4 className="f5 b tc lh-title mb2 primary">Learn</h4>
+        <p className="f6 normal">We haven't turned our backs on back-ends at all, we just use them in a different way nowadays. We have a wealth of experience in working with GraphCool, Serverless, StdLib and anything that can be coded with a little bit of NodeJS. Part of the JAMStack approach is that you can pull data from an API in order to generate your static content, deploy that to a CDN and your customers get to experience lightning fast websites.</p>
       </div>      
     </div>
     {/*<div className="tc">
