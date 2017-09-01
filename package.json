@@ -32,7 +32,8 @@
     "typeface-montserrat": "^0.0.37",
     "typography": "^0.15.8",
     "typography-breakpoint-constants": "^0.14.0",
-    "typography-plugin-code": "^0.15.9"
+    "typography-plugin-code": "^0.15.9",
+    "typeface-lato": "^0.0.25"
   },
   "devDependencies": {
     "gh-pages": "^1.0.0",

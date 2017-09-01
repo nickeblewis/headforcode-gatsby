@@ -7691,6 +7691,10 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
+typeface-lato@^0.0.25:
+  version "0.0.25"
+  resolved "https://registry.yarnpkg.com/typeface-lato/-/typeface-lato-0.0.25.tgz#37201c3a1d33a2d416eee7f652126e8a60a6481c"
+
 typeface-merriweather@^0.0.35:
   version "0.0.35"
   resolved "https://registry.yarnpkg.com/typeface-merriweather/-/typeface-merriweather-0.0.35.tgz#2539221f5519c93c2b93902103c6605c5d3cd2f3"
