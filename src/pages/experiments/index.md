@@ -20,3 +20,5 @@ E-commerce for static builds
 ## Algolia 
 
 Search for Gatsby
+
+## Chatbots like Freecom
