@@ -36,7 +36,7 @@ class BlogPostTemplate extends React.Component {
             <Disqus
                 shortname="headforcode-1"
         				title={post.frontmatter.title}
-        				url={'http://www.headforcode.com' + this.props.location.pathname}
+        				url={'http://www.headforcode.com' + post.frontmatter.path}
               />
       </div>
     )
