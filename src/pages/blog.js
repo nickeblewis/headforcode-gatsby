@@ -4,11 +4,11 @@ import Link from 'gatsby-link';
 import get from 'lodash/get';
 import isArray from 'lodash/isArray';
 import Helmet from 'react-helmet';
+import selfie from '../images/me.jpg';
+import formatDate from 'date-fns/format';
 import ContentHeader from '../components/ContentHeader';
 import Wrapper from '../components/Wrapper';
 import Container from '../components/Container';
-import selfie from '../images/logo.png';
-import formatDate from 'date-fns/format';
 
 const createTags = tags => {
   if (!tags) {
@@ -21,14 +21,26 @@ const createTags = tags => {
 };
 
 const css = {
+  button: {
+    color: '#fff',
+    border: '1px solid #F39C12',
+    padding: '.5rem 1rem',
+    display: 'inline-block',
+    borderRadius: '2px',
+    fontSize: '1rem',
+    backgroundColor: '#F39C12',
+    marginTop: '1rem',
+    textDecoration: 'none',
+    ':hover': {
+      backgroundColor: 'transparent',
+      color: '#F39C12'
+    }
+  },
   posts: {
-    margin: '0'
+    margin: '2rem 0 0 0'
   },
   post: {
-    margin: '0 0 3rem 0',
-    ':last-child': {
-      margin: '0'
-    }
+    margin: '0 0 3rem 0'
   },
   postDate: {
     color: '#999',
@@ -49,7 +61,7 @@ const css = {
   }
 };
 
-class TagsTemplate extends React.Component {
+class BlogIndex extends React.Component {
 
   renderPosts = () => {
     const articles = [];
@@ -73,14 +85,11 @@ class TagsTemplate extends React.Component {
   }
   render() {
     const posts = this.renderPosts();
-    const title = (
-      <span>Tag: <i style={{color: '#777'}}>{this.props.pathContext.tag}</i></span>
-    );
 
     return (
       <div>
         <Helmet title={get(this, 'props.data.site.siteMetadata.title')} />
-        <ContentHeader title={title} />
+        <ContentHeader title="Blog Archive" />
         <Wrapper tag="main">
           <Container size="small">
             <section css={css.posts}>
@@ -93,33 +102,39 @@ class TagsTemplate extends React.Component {
   }
 }
 
-TagsTemplate.propTypes = {
+BlogIndex.propTypes = {
   route: PropTypes.object
 };
 
-export default TagsTemplate;
+export default BlogIndex;
 
 export const pageQuery = graphql`
-  query BlogPostsByTags($tag: String!) {
-    allMarkdownRemark(
-      filter: {
-        frontmatter: { tags: { in: [$tag] } }
-        fields: { collection: { eq: "posts" } }
-      }
-    ) {
-      edges {
-        node {
-          excerpt(pruneLength: 168),
-          fields {
-            slug
-          }
-          frontmatter {
-            title,
-            tags,
-            date
-          }
+query BlogQuery {
+  site {
+    siteMetadata {
+      title
+    }
+  }
+  allMarkdownRemark(
+    sort: { order: DESC, fields: [frontmatter___date] },
+    filter: {
+      frontmatter: { draft: { ne: true } },
+      fields: { collection: { eq: "posts" }}
+    }
+  ) {
+    edges {
+      node {
+        excerpt(pruneLength: 168),
+        frontmatter {
+          title,
+          tags,
+          date
+        }
+        fields {
+          slug
         }
       }
     }
   }
+}
 `;

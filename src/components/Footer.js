@@ -29,12 +29,12 @@ const Footer = props => {
         {/* {renderSelfie &&
           <img css={css.selfie} src={selfie} title="jaffamonkey" />} */}
         <p css={css.p}>
-          follow me on <a href="https://twitter.com/jaffamonkey/">twitter</a>
-          &amp; <a href="https://github.com/jaffamonkey">github</a>
-        &amp; <a href="https://www.linkedin.com/in/jaffamonkey/">linkedin</a>
+          follow us on <a href="https://twitter.com/headforcode/">twitter</a>
+          &amp; <a href="https://github.com/nickeblewis">github</a>
+        &amp; <a href="https://www.linkedin.com/in/nicklewis/">linkedin</a>
         </p>
         <p css={css.p}>
-        message me: paullittlebury@gmail.com
+        message me: nick@headforcode.com
         </p>
       </div>
     </footer>

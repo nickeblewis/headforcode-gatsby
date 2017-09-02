@@ -8,7 +8,7 @@
     "codemirror": "^5.27.4",
     "date-fns": "^1.28.5",
     "file-loader": "^0.11.2",
-    "gatsby": "^1.8.10",
+    "gatsby": "latest",
     "gatsby-link": "^1.6.7",
     "gatsby-plugin-catch-links": "^1.0.2",
     "gatsby-plugin-glamor": "^1.6.7",
@@ -18,14 +18,13 @@
     "gatsby-plugin-typography": "^1.7.5",
     "gatsby-remark-autolink-headers": "latest",
     "gatsby-remark-copy-linked-files": "^1.5.7",
-    "gatsby-remark-prismjs": "^1.2.7",
+    "gatsby-remark-prismjs": "latest",
     "gatsby-remark-responsive-iframe": "^1.4.7",
     "gatsby-remark-responsive-image": "^1.0.0-alpha13-alpha.435e0178",
     "gatsby-remark-smartypants": "^1.4.7",
     "gatsby-source-filesystem": "^1.4.11",
     "gatsby-transformer-remark": "^1.7.6",
     "gatsby-transformer-sharp": "^1.6.5",
-    "glamor": "latest",
     "gray-matter": "^3.0.2",
     "lodash": "^4.15.0",
     "react-codemirror": "^1.0.0",
@@ -35,27 +34,24 @@
     "remark": "^7.0.1",
     "slugify": "^1.2.1",
     "typeface-lato": "^0.0.25",
-    "typeface-merriweather": "^0.0.35",
-    "typeface-montserrat": "^0.0.37",
     "typography": "^0.15.8",
     "typography-breakpoint-constants": "^0.14.0",
     "typography-plugin-code": "^0.15.9"
-  },
-  "devDependencies": {
-    "gh-pages": "^1.0.0",
-    "prettier": "^1.5.2"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
-  "main": "n/a",
-  "scripts": {
+   "scripts": {
+    "start": "gatsby develop",
+    "test": "echo \"Skipping tests\" && exit 0",
+    "prebuild": "rm -rf ./public",
     "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "develop": "gatsby develop",
-    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"pages/*.js\" \"utils/*.js\" \"wrappers/*.js\" \"html.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gatsby develop"
+    "deploy:prod": "S3PATH=latest ./scripts/deploy.sh",
+    "deploy:dev": "S3PATH=dev ./scripts/deploy.sh",
+    "deploy": "./scripts/deploy.sh",
+    "s3:backup": "aws s3 sync s3://site-headforcode.com/latest s3://site-headforcode.com/revert --delete",
+    "s3:upload": "aws s3 sync ./public s3://site-headforcode.com/$S3PATH --acl public-read --sse --delete",
+    "s3:revert": "aws s3 sync s3://site-headforcode.com/revert s3://site-headforcode.com/latest --acl public-read --sse --delete"
   }
 }

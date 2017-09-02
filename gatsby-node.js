@@ -117,8 +117,8 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
       const slug = `/${parsedFilePath.dir}/`;
       createNodeField({
         node,
-        fieldName: 'slug',
-        fieldValue: slug
+        name: 'slug',
+        value: slug
       });
       return;
 
@@ -142,12 +142,12 @@ exports.onCreateNode = ({ node, boundActionCreators, getNode }) => {
 
       createNodeField({
         node,
-        fieldName: 'collection',
-        fieldValue: fileNode.sourceInstanceName
+        name: 'collection',
+        value: fileNode.sourceInstanceName
       });
 
       if (nodeSlug) {
-        createNodeField({ node, fieldName: 'slug', fieldValue: nodeSlug });
+        createNodeField({ node, name: 'slug', value: nodeSlug });
       }
       return;
   }

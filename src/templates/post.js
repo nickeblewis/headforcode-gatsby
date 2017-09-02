@@ -8,7 +8,7 @@ import ContentHeader from '../components/ContentHeader';
 import Wrapper from '../components/Wrapper';
 import Container from '../components/Container';
 import slugify from 'slugify';
-import '../css/prism.css';
+// import '../css/prism.css';
 import '../css/style.css';
 
 const css = {
@@ -51,16 +51,16 @@ class BlogPost extends React.Component {
     const tags = this.renderTags(post);
     return (
       <div>
-        <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-        <ContentHeader title={post.frontmatter.title} date={date} tags={tags} />
+         <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} /> 
+         <ContentHeader title={post.frontmatter.title} date={date} tags={tags} /> 
         <Wrapper tag="main">
           <Container>
-            <article className="markdown" dangerouslySetInnerHTML={{ __html: post.html }} />
-            <section css={css.comments}>
-              <Disqus
-                shortname="jaffamonkey"
+             <article className="markdown" dangerouslySetInnerHTML={{ __html: post.html }} /> 
+             <section css={css.comments}> 
+              <Disqus  
+                shortname="headforcode-1"
         				title={post.frontmatter.title}
-        				url={'http://www.jaffamonkey.com' + this.props.location.pathname}
+        				url={'http://www.headforcode.com' + this.props.location.pathname}
               />
             </section>
           </Container>

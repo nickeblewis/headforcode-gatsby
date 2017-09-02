@@ -32,8 +32,6 @@ module.exports = props => {
           name="description"
           content="HeadForCode - App Engineers / Farnborough, Hampshire, UK"
         />
-        { /* TODO: Create the below... */ }
-        {/* <link href={require('./images/ewh.ico')} rel="icon" /> */}
         {props.headComponents}
         {css}
         {head.title.toComponent()}

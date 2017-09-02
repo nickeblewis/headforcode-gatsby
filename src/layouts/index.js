@@ -1,14 +1,11 @@
-import React from "react"
-import PropTypes from "prop-types"
-import Link from "gatsby-link"
-import Helmet from "react-helmet"
-import { rhythm } from "../utils/typography"
-
+import React from 'react';
+import PropTypes from 'prop-types';
+import Link from 'gatsby-link';
+import Helmet from 'react-helmet';
 import NavHeader from '../components/NavHeader';
 import ContentHeader from '../components/ContentHeader';
 import Footer from '../components/Footer';
-
-import '../css/main.css'
+require('prismjs/themes/prism.css')
 
 import 'typeface-lato';
 
