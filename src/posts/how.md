@@ -1,8 +1,13 @@
 ---
 title: How
-path: "/how/"
-slug: how
+date: "2017-09-02"
+layout: post
+author: nickeblewis
+tags:
+    - One
+    - Two
 thumbnail: 'https://s3-eu-west-1.amazonaws.com/assets.site.headforcode.com/icons/js.png'
+draft: false
 ---
 
 How I built this application

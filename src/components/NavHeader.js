@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-// import logo from '../images/ewh.png';
+import logo from '../images/logo.png';
 
 const css = {
   nav: {
@@ -22,7 +22,7 @@ const css = {
     padding: '0.5rem',
     '@media(min-width: 800px)': {
       height: '5.5rem',
-      width: '5.5rem',
+      width: '10.5rem',
     }
   },
   list: {
@@ -56,8 +56,7 @@ const NavHeader = props => {
     <div>
       <nav css={css.nav}>
         <Link css={css.logoLink} to={'/'}>
-          {/* <img src={logo} css={css.logo} /> */}
-          <h4>HeadForCode</h4>
+           <img src={logo} css={css.logo} />           
         </Link>
         <ul css={css.list}>
         <li css={css.listItem}>
