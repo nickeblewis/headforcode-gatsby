@@ -1,5 +1,5 @@
 import React from "react"
-import '../css/markdown-styles.css'
+// import '../css/markdown-styles.css'
 
 // import ReactDisqus from 'react-disqus'
 import Helmet from "react-helmet"
@@ -8,6 +8,9 @@ import Link from 'gatsby-link'
 import { rhythm, scale } from '../utils/typography'
 // import ReactDisqusThread from 'react-disqus-thread'
 import Disqus from '../components/Disqus';
+import ContentHeader from '../components/ContentHeader';
+import Main from '../components/Main';
+import cssStyles from '../css/prism.css';
 
 class BlogPostTemplate extends React.Component {
   render() {

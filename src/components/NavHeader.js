@@ -57,6 +57,7 @@ const NavHeader = props => {
       <nav css={css.nav}>
         <Link css={css.logoLink} to={'/'}>
           {/* <img src={logo} css={css.logo} /> */}
+          <h4>HeadForCode</h4>
         </Link>
         <ul css={css.list}>
         <li css={css.listItem}>
