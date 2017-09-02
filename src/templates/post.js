@@ -60,7 +60,7 @@ class BlogPost extends React.Component {
               <Disqus  
                 shortname="headforcode-1"
         				title={post.frontmatter.title}
-        				url={'http://www.headforcode.com' + this.props.location.pathname}
+        				url={'http://www.headforcode.com' + post.fields.slug}
               />
             </section>
           </Container>
@@ -87,6 +87,9 @@ export const pageQuery = graphql`
    ) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date
         title
