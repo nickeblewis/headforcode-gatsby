@@ -6,7 +6,7 @@ author: jaffamonkey
 tags:
     - security
     - owasp
-draft: false
+draft: true
 ---
 
 # Adding click-jacking and cross-site scripting protection

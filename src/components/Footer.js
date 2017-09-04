@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'gatsby-link';
 import get from 'lodash/get';
-// import selfie from '../images/me.jpg';
+import selfie from '../images/me.jpg';
 
 const css = {
   selfie: {
@@ -26,8 +26,8 @@ const Footer = props => {
   return (
     <footer css={css.wrapper}>
       <div css={css.container}>
-        {/* {renderSelfie &&
-          <img css={css.selfie} src={selfie} title="jaffamonkey" />} */}
+        {renderSelfie &&
+          <img css={css.selfie} src={selfie} title="headforcode" />}
         <p css={css.p}>
           follow us on <a href="https://twitter.com/headforcode/">twitter</a>
           &amp; <a href="https://github.com/nickeblewis">github</a>

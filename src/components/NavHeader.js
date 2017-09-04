@@ -22,8 +22,8 @@ const css = {
     opacity: '.75',
     padding: '0.5rem',
     '@media(min-width: 800px)': {
-      height: '5.5rem',
-      width: '5.5rem',
+      height: '7.5rem',
+      width: '7.5rem',
     }
   },
   list: {
@@ -61,17 +61,17 @@ const NavHeader = props => {
         </Link>
         <ul css={css.list}>
           <li css={css.listItem}>
-            <Link css={css.listItemLink} to={'/app-development/'}>App Development</Link>
+            <Link css={css.listItemLink} to={'/web-development/'}>Web Development</Link>
           </li>
-          <li css={css.listItem}>
+          {/* <li css={css.listItem}>
             <Link css={css.listItemLink} to={'/security-testing/'}>Cloud Services</Link>
-          </li>
+          </li> */}
           <li css={css.listItem}>
             <Link css={css.listItemLink} to={'/clients/'}>Clients</Link>
           </li>
-          <li css={css.listItem}>
+          {/* <li css={css.listItem}>
             <Link css={css.listItemLink} to={'/clients/'}>Contact</Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </div>

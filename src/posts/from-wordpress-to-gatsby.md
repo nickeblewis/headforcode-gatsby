@@ -6,7 +6,7 @@ author: jaffamonkey
 tags:
     - testengineering
     - devops
-draft: false
+draft: true
 ---
 
 Switching from Wordpress to using GatsbyJS framework for my own site, and using markdown for content, I realised I had almost missed an evolution. Most sites do not need heavy-duty backend, and this framework is based on simple flat file structure.

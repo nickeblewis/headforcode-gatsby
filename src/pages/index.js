@@ -130,11 +130,11 @@ class BlogIndex extends React.Component {
             <p>
               <img css={css.selfie} src={selfie} title="Nick Lewis" />
             </p>
-            <h1 css={css.title}>Nick Lewis</h1>
-            <p css={css.subtitle}>App Engineers And DevOps</p>
-            <p css={css.leading}>Test engineering that improves quality in the build/deployment pipeline, tracing requirements to code. Utilising custom opensource test frameworks tools as the foundation, for building automated tests. Automated accessibility, security, cross-browser and performance tests to run with every build..</p>
-            <p css={css.subtitle}>Hire me to do it, or to show you how to do it.</p>
-            <Link css={css.button} to={'/projects/'}>Test Frameworks</Link>
+            <h1 css={css.title}>Nick Lewis Ltd</h1>
+            <p css={css.subtitle}>Digital Consultancy</p>
+            <p css={css.leading}>Reach the online audience that your business deserves. Let us help you begin your incredible journey...</p>
+            {/* <p css={css.subtitle}>Hire me to do it, or to show you how to do it.</p> */}
+            <Link css={css.button} to={'/web-development/'}>Get Started</Link>
           </Container>
         </Wrapper>
                 <Wrapper tag="main">

@@ -6,7 +6,7 @@ path: "/clients/"
 draft: false
 ---
 
-## Direct
+## Freelance
 
 * David Selvadurai
 * Bentley Copse
@@ -14,6 +14,7 @@ draft: false
 
 ## Contracts
 
+* Tengizchevroil
 * Premium Credit
 * Save the Children
 * Gladstone MRM
