@@ -19,13 +19,20 @@ const config = {
         name: 'posts',
       }
     },
+      {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `data`,
+        path: `${__dirname}/data`,
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/src/pages`,
         name: 'pages',
       },
-    },
+    },    
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -50,7 +57,6 @@ const config = {
     },
     // `gatsby-transformer-sharp`,
     // `gatsby-plugin-sharp`,
-    `gatsby-plugin-twitter`,
     `gatsby-plugin-glamor`,
     {
       resolve: `gatsby-plugin-google-analytics`,
