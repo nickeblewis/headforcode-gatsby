@@ -10,7 +10,7 @@ const css = {
     width: '4rem'
   },
   wrapper: {
-    backgroundColor: '#000000'
+    backgroundColor: '#172a3a'
   },
   container: {
     margin: '4rem 0',
