@@ -22,8 +22,8 @@ const css = {
     opacity: '.75',
     padding: '0.5rem',
     '@media(min-width: 800px)': {
-      height: '7.5rem',
-      width: '7.5rem',
+      height: '3.5rem',
+      width: '3.5rem',
     }
   },
   list: {
