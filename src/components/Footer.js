@@ -9,12 +9,15 @@ const css = {
     display: 'inline-block',
     width: '4rem'
   },
-  wrapper: {},
+  wrapper: {
+    backgroundColor: '#000000'
+  },
   container: {
     margin: '4rem 0',
     padding: '0 1rem',
     textAlign: 'center',
-    fontSize: '0.9rem'
+    fontSize: '0.9rem',
+    color: "#ffffff"
   },
   p: {
     margin: '0.5rem 0'

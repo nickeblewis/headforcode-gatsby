@@ -16,7 +16,8 @@ const css = {
     width: '100%',
     maxWidth: '820px',
     margin: '4rem auto 2rem',
-    padding: '0 1rem'
+    padding: '0 1rem',
+    backgroundColor: '#fafafa'
   },
   tagLink: {
     color: '#F39C12'
