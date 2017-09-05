@@ -27,7 +27,3 @@ Well being the web, we offer our services to clients all over the UK and the Glo
 ### Are we looking to expand?
 
 Over time yes. In fact we would love to create a global team of developers, creative people and writers because our sites are very much about content.
-
-### Are we CMS people?
-
-CMS = Content Management = Yes but not the traditional kind of CMS. No no no no. We used to work with Wordpress and Drupal etc etc. Whilst we still support some customers using these systems, we have moved on to a new way. It's called the JAMStack which we will talk more about in the next batch of blog articles. 
