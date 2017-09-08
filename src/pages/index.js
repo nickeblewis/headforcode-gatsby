@@ -21,7 +21,6 @@ const createTags = tags => {
 
 const css = {
   selfie: {
-    borderRadius: '100%',
     display: 'inline-block',
     width: '6rem',
     '@media(min-width: 800px)': {
