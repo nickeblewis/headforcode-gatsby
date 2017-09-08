@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 import get from 'lodash/get';
 import isArray from 'lodash/isArray';
 import Helmet from 'react-helmet';
-import selfie from '../images/me.jpg';
+import selfie from '../images/logo4.jpg';
 import formatDate from 'date-fns/format';
 import Wrapper from '../components/Wrapper';
 import Container from '../components/Container';
@@ -128,9 +128,9 @@ class BlogIndex extends React.Component {
         <Wrapper tag="header">
           <Container size="large">
             <p>
-              <img css={css.selfie} src={selfie} title="Nick Lewis" />
+              <img css={css.selfie} src={selfie} title="Head for code logo" />
             </p>
-            <h1 css={css.title}>Nick Lewis Ltd</h1>
+            <h1 css={css.title}>HeadForCode</h1>
             <p css={css.subtitle}>Digital Consultancy</p>
             <p css={css.leading}>Reach the online audience that your business deserves. Let us help you begin your incredible journey...</p>
             {/* <p css={css.subtitle}>Hire me to do it, or to show you how to do it.</p> */}
