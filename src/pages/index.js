@@ -130,10 +130,10 @@ class BlogIndex extends React.Component {
               <img css={css.selfie} src={selfie} title="Head for code logo" />
             </p>
             <h1 css={css.title}>HeadForCode</h1>
-            <p css={css.subtitle}>Digital Consultancy</p>
-            <p css={css.leading}>Reach the online audience that your business deserves. Let us help you begin your incredible journey...</p>
+            <p css={css.subtitle}>App Consultancy</p>
+            <p css={css.leading}>We build business solutions for the web, your mobile devices and for your desktop</p>
             {/* <p css={css.subtitle}>Hire me to do it, or to show you how to do it.</p> */}
-            <Link css={css.button} to={'/web-development/'}>Get Started</Link>
+            <Link css={css.button} to={'/development/'}>Let's Develop!</Link>
           </Container>
         </Wrapper>
                 <Wrapper tag="main">

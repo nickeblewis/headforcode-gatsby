@@ -1,8 +1,8 @@
 ---
-title: Web Development
+title: We Develop
 date: "2017-09-02T22:12:03.284Z"
 layout: post
-path: "/web-development/"
+path: "/development/"
 draft: false
 ---
 

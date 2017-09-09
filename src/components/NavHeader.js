@@ -61,7 +61,10 @@ const NavHeader = props => {
         </Link>
         <ul css={css.list}>
           <li css={css.listItem}>
-            <Link css={css.listItemLink} to={'/web-development/'}>Web Development</Link>
+            <Link css={css.listItemLink} to={'/blog/'}>Blog</Link>
+          </li>
+          <li css={css.listItem}>
+            <Link css={css.listItemLink} to={'/development/'}>Development</Link>
           </li>
           {/* <li css={css.listItem}>
             <Link css={css.listItemLink} to={'/security-testing/'}>Cloud Services</Link>
