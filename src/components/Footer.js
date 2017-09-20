@@ -35,7 +35,7 @@ const Footer = props => {
           follow us on <a href="https://twitter.com/headforcode/">twitter</a>
         </p>
         <p css={css.p}>
-        email us at <a href="mailto:contact@headforcode.com">contact@headforcode.com</a>
+        email us at <a href="mailto:info@headforcode.com">info@headforcode.com</a>
         </p>
       </div>
     </footer>
