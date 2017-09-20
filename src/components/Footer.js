@@ -37,7 +37,7 @@ const Footer = props => {
         &amp; <a href="https://www.linkedin.com/in/nicklewis/">linkedin</a>
         </p>
         <p css={css.p}>
-        message me: nick@headforcode.com
+        Email: <a href="mailto:contact@headforcode.com">contact@headforcode.com</a>
         </p>
       </div>
     </footer>
