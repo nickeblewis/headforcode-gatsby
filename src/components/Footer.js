@@ -33,11 +33,9 @@ const Footer = props => {
           <img css={css.selfie} src={selfie} title="headforcode" />}
         <p css={css.p}>
           follow us on <a href="https://twitter.com/headforcode/">twitter</a>
-          &amp; <a href="https://github.com/nickeblewis">github</a>
-        &amp; <a href="https://www.linkedin.com/in/nicklewis/">linkedin</a>
         </p>
         <p css={css.p}>
-        Email: <a href="mailto:contact@headforcode.com">contact@headforcode.com</a>
+        email us at <a href="mailto:contact@headforcode.com">contact@headforcode.com</a>
         </p>
       </div>
     </footer>
