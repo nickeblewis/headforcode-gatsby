@@ -14,6 +14,7 @@
     "gatsby-plugin-glamor": "^1.6.7",
     "gatsby-plugin-google-analytics": "^1.0.7",
     "gatsby-plugin-react-helmet": "latest",
+    "gatsby-plugin-sharp": "^1.6.7",
     "gatsby-plugin-twitter": "^1.0.10",
     "gatsby-plugin-typography": "^1.7.5",
     "gatsby-remark-autolink-headers": "latest",
@@ -24,8 +25,12 @@
     "gatsby-remark-smartypants": "^1.4.7",
     "gatsby-source-filesystem": "^1.4.11",
     "gatsby-transformer-remark": "^1.7.6",
+    "gatsby-transformer-sharp": "^1.6.6",
     "gray-matter": "^3.0.2",
+    "instagram-screen-scrape": "^2.0.0",
     "lodash": "^4.15.0",
+    "mkdirp": "^0.5.1",
+    "progress": "^1.1.8",
     "react-codemirror": "^1.0.0",
     "react-disqus": "^1.0.2",
     "react-disqus-thread": "^0.4.0",
@@ -35,10 +40,7 @@
     "typeface-lato": "^0.0.25",
     "typography": "^0.15.8",
     "typography-breakpoint-constants": "^0.14.0",
-    "typography-plugin-code": "^0.15.9",
-    "instagram-screen-scrape": "^2.0.0",
-    "progress": "^1.1.8",
-    "mkdirp": "^0.5.1"
+    "typography-plugin-code": "^0.15.9"
   },
   "keywords": [
     "gatsby"

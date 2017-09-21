@@ -37,12 +37,12 @@ const config = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          // {
-          //   resolve: `gatsby-remark-responsive-image`,
-          //   options: {
-          //     maxWidth: 600
-          //   }
-          // },
+          {
+            resolve: `gatsby-remark-responsive-image`,
+            options: {
+              maxWidth: 600
+            }
+          },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
@@ -55,8 +55,8 @@ const config = {
         ]
       }
     },
-    // `gatsby-transformer-sharp`,
-    // `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     `gatsby-plugin-glamor`,
     {
       resolve: `gatsby-plugin-google-analytics`,

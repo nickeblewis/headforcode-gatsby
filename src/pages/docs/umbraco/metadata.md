@@ -11,9 +11,9 @@ Meta Data is basically data that a browser such as Google, Firefox, Yahoo, etc. 
 * Click on the page that you want to add the metadata to.
 * Go to the Tab SEO
 
-![one](1.png)
+![](1.png)
 
 * You should see the heading that says Meta Description. This is where you will put all the words that are relevent to this page. So For example if you had the contact page selected, then you might want to write things such as: ‘Call’, ‘Phone number’, ‘email’ etc. 
 
-![two](2.png)
+![](2.png)
 
