@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: jaffamonkey/jaffamonkey-gatsby-main2 # Path to your Github repository
+  repo: nickeblewis/headforcode-gatsby # Path to your Github repository
   branch: master # Branch to update
 
 media_folder: "src/img"
