@@ -1,9 +1,11 @@
 ---
 layout: post
-tags: 'List [ "Netlify" ]'
-date: 2017-10-01T14:17:29.562Z
+tags: 
+  - Netlify
+  - CMS
+date: "2017-10-01"
 title: Getting started with Netlify CMS
-draft: 'true'
+draft: true
 author: Nick Lewis
 ---
 Body text
