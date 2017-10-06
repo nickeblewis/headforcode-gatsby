@@ -8,6 +8,7 @@ date: "2017-10-02"
 title: Expo Snacks
 draft: false
 author: Nick Lewis
+slug: "test/snacks"
 ---
 Expo is a tool for building React Native apps without the need for installing tools such as Xcode on the Mac. Expo is available for Mac and Windows users, is easy to install and to get going in a matter of minutes. You can also experiment with ideas for mobile UI  without needing to install anything. This is where Expo "snacks" come into the equation. Here is a neat little example in action...
 
