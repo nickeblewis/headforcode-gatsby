@@ -131,7 +131,7 @@ class BlogIndex extends React.Component {
             </p>
             <h1 css={css.title}>HeadForCode</h1>
             <p css={css.subtitle}>Digital Consultancy</p>
-            <p css={css.leading}>We build business solutions for the web, your mobile devices and for your desktop</p>
+            <p css={css.leading}>Helping you unwravel the complexities of the web to get more out of it!</p>
             {/* <p css={css.subtitle}>Hire me to do it, or to show you how to do it.</p> */}
             <Link css={css.button} to={'/development/'}>Let's Develop!</Link>
           </Container>
