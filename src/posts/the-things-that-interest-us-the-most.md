@@ -14,6 +14,8 @@ I have been working with Javascript for quite a few years and have dedicated my 
 
 ## What we use for this website
 
+TODO
+
 ## Next on the list
 
 [Cycle JS fundamentals](https://egghead.io/courses/cycle-js-fundamentals?utm_source=drip&utm_medium=email&utm_content=cycle-js-refresh)
