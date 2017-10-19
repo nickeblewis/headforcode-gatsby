@@ -1,9 +1,10 @@
 ---
 layout: post
-tags: resources
-date: 2017-10-19T19:13:21.827Z
+tags: 
+    - resources
+date: '2017-10-19'
 title: The things that interest us the most
-draft: 'true'
+draft: true
 author: Nick Lewis
 ---
 Join us as we explore the best of breed technology solutions
