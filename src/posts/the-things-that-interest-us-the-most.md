@@ -2,6 +2,9 @@
 layout: post
 tags: 
     - resources
+    - Functional Programming
+    - JavaScript
+    - Cycle
 date: '2017-10-19'
 title: The things that interest us the most
 draft: true

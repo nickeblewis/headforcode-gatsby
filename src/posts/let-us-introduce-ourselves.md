@@ -1,6 +1,8 @@
 ---
 layout: post
-tags: 'List [ "Marketing", "Test" ]'
+tags: 
+    - Marketing
+    - Test
 date: '2017-09-03'
 title: Let us introduce ourselves
 draft: false
