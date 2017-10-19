@@ -10,8 +10,13 @@ title: The things that interest us the most
 draft: true
 author: Nick Lewis
 ---
-Join us as we explore the best of breed technology solutions
+I have been working with Javascript for quite a few years and have dedicated my work to it for building a mixture of web and mobile experiences for people, so I thought I should collate a list of resources that either I use already or are very much on my radar.
+
+## What we use for this website
+
+## Next on the list
 
 [Cycle JS fundamentals](https://egghead.io/courses/cycle-js-fundamentals?utm_source=drip&utm_medium=email&utm_content=cycle-js-refresh)
 
-Does this work ok still
+
+
