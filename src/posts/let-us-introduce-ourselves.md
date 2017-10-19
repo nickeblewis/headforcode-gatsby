@@ -1,12 +1,11 @@
 ---
-title: Let us introduce ourselves
-date: "2017-09-03"
 layout: post
-author: nickeblewis
-tags:
-    - Marketing
-thumbnail: 'https://s3-eu-west-1.amazonaws.com/assets.site.headforcode.com/icons/js.png'
+tags: 'List [ "Marketing", "Test" ]'
+date: '2017-09-03'
+title: Let us introduce ourselves
 draft: false
+author: nickeblewis
+thumbnail: 'https://s3-eu-west-1.amazonaws.com/assets.site.headforcode.com/icons/js.png'
 ---
 
 ## Ok so who are we?
